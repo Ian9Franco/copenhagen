@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-31T20:04:05.411Z
+Generado: 2026-11-01T06:23:10.203Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -29,7 +29,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 52 | 0 | 90 | low | 45 | [Tech Lead Full-Stack](https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-c340) | Grupo Mariposa | Get on Board | new |
 | 52 | 0 | 90 | low | 45 | [Desarrollador Full-Stack: Java & Angular](https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote) | Improving | Get on Board | new |
 | 52 | 24 | 72 | low | 46 | [Platform Engineer - Compute Capacity](https://jobicy.com/jobs/156946-platform-engineer-compute-capacity) | Supabase | Jobicy | new |
-| 52 | 24 | 62 | low | 47 | [Security Software Engineer](https://jobicy.com/jobs/149550-security-software-engineer) | Canonical | Jobicy | new |
 | 51 | 0 | 90 | low | 44 | [Full-Stack Senior con IA & Agentes](https://www.getonbrd.com/jobs/full-stack-senior-con-ia-agentes-bc-tecnologia-remote-9cff) | BC Tecnología | Get on Board | new |
 | 51 | 38 | 72 | unknown | 47 | [Data Infrastructure Engineer-Spain](https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain?utm_source=api) | Doodle | Himalayas | new |
 | 50 | 0 | 90 | low | 44 | [Desarrollador Full-Stack Liferay LATAM](https://www.getonbrd.com/jobs/desarrollador-full-stack-liferay-bc-tecnologia-santiago) | BC Tecnología | Get on Board | new |
@@ -51,7 +50,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 48 | 24 | 72 | unknown | 44 | [DevOps Architect](https://himalayas.app/companies/logicalis-com/jobs/devops-architect?utm_source=api) | Logicalis Spain | Himalayas | new |
 | 48 | 17 | 82 | unknown | 43 | [Data Engineer](https://himalayas.app/companies/scalian/jobs/data-engineer?utm_source=api) | Scalian | Himalayas | new |
 | 48 | 33 | 65 | unknown | 44 | [Data & Analytics Engineer (freelancer)](https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer?utm_source=api) | The Agile Monkeys | Himalayas | new |
-| 47 | 14 | 72 | low | 46 | [Front-end Developer React / Next.JS (SEO)](https://www.getonbrd.com/jobs/front-end-developer-react-next-js-seo-bc-tecnologia-buenos-aires) | BC Tecnología | Get on Board | new |
 | 47 | 0 | 72 | low | 42 | [Senior Database Engineer Maria DB & PostgreSQL](https://www.getonbrd.com/jobs/senior-database-engineer-maria-db-postgresql-improving-remote) | Improving | Get on Board | new |
 | 47 | 0 | 72 | low | 42 | [Sr. Java Platform Engineer](https://www.getonbrd.com/jobs/sr-java-platform-engineer-improving-remote) | Improving | Get on Board | new |
 | 47 | 24 | 62 | low | 43 | [Distributed Systems Engineer](https://jobicy.com/jobs/156945-distributed-systems-engineer-3) | Canonical | Jobicy | new |
@@ -71,7 +69,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 42 | 12 | 72 | unknown | 44 | [Engineering Director - Business Data](https://himalayas.app/companies/canonical/jobs/engineering-director-business-data?utm_source=api) | Canonical | Himalayas | new |
 | 43 | 12 | 72 | unknown | 40 | [Senior DevOps SME (Presales Engineer Lead - AWS) - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 40 | 22 | 72 | unknown | 43 | [DevOps Team Lead](https://himalayas.app/companies/fundcount/jobs/devops-team-lead?utm_source=api) | FundCount | Himalayas | new |
-| 39 | 24 | 65 | unknown | 43 | [Senior AI-First Data Engineer](https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer?utm_source=api) | Smartcat | Himalayas | new |
 | 42 | 9 | 72 | unknown | 39 | [Senior DevOps Platform Engineering - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 26 | 24 | 90 | high | 20 | [Senior Software Engineer, Backend (Money Movement)](https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement) | Phantom | Jobicy | new |
 | 26 | 24 | 72 | high | 21 | [Senior DevOps Engineer (AWS)](https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws?utm_source=api) | Duetto | Himalayas | new |
