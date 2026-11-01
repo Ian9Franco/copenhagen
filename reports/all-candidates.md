@@ -1,14 +1,14 @@
 # Port — All candidates
 
-Generado: 2026-11-01T06:23:10.203Z
+Generado: 2026-11-01T15:16:39.668Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
 | MAIN | Fit | Potencial | Riesgo | SIDE | Rol | Empresa | Fuente | Estado |
 | ---: | ---: | ---: | --- | ---: | --- | --- | --- | --- |
 | 61 | 44 | 90 | low | 53 | [Full-Stack Engineer (React / .NET / AWS)](https://www.getonbrd.com/jobs/full-stack-engineer-react-net-aws-improving-remote) | Improving | Get on Board | new |
-| 59 | 40 | 90 | low | 52 | [Product Manager - Realtime](https://jobicy.com/jobs/156943-product-manager-realtime) | Supabase | Jobicy | reviewing |
 | 59 | 40 | 86 | unknown | 52 | [Data Engineer (CDP Specialist)](https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist?utm_source=api) | dentsu international | Himalayas | new |
+| 59 | 40 | 90 | low | 52 | [Product Manager - Realtime](https://jobicy.com/jobs/156943-product-manager-realtime) | Supabase | Jobicy | reviewing |
 | 58 | 22 | 90 | medium | 50 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | Himalayas | reviewing |
 | 57 | 40 | 90 | low | 50 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remotive | new |
 | 57 | 24 | 90 | low | 49 | [Full-Stack Developer: React & Node.js](https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote) | Improving | Get on Board | new |
@@ -20,7 +20,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 54 | 24 | 90 | unknown | 48 | [Data Product Engineer, Data & Analytics](https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics?utm_source=api) | Trimble | Himalayas | new |
 | 54 | 24 | 65 | unknown | 48 | [Senior Data Engineer (AI-Native) — Data Layer](https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer?utm_source=api) | Proton | Himalayas | new |
 | 53 | 22 | 72 | low | 47 | [Desarrollador Ctv](https://www.getonbrd.com/jobs/desarrollador-mobile-mediastream-bogota-santiago-bf34) | Mediastream | Get on Board | new |
-| 53 | 40 | 72 | low | 48 | [Software Engineer - Branching](https://jobicy.com/jobs/156947-software-engineer-branching) | Supabase | Jobicy | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer (Remoto)](https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api) | knowmad mood | Himalayas | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer CI/CD & Infra Specialist - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer - AI Model Evaluator](https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-5752080247?utm_source=api) | mercor | Himalayas | new |
@@ -28,7 +27,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 52 | 17 | 82 | low | 46 | [AI Back-end Engineer](https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote) | Improving | Get on Board | new |
 | 52 | 0 | 90 | low | 45 | [Tech Lead Full-Stack](https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-c340) | Grupo Mariposa | Get on Board | new |
 | 52 | 0 | 90 | low | 45 | [Desarrollador Full-Stack: Java & Angular](https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote) | Improving | Get on Board | new |
-| 52 | 24 | 72 | low | 46 | [Platform Engineer - Compute Capacity](https://jobicy.com/jobs/156946-platform-engineer-compute-capacity) | Supabase | Jobicy | new |
 | 51 | 0 | 90 | low | 44 | [Full-Stack Senior con IA & Agentes](https://www.getonbrd.com/jobs/full-stack-senior-con-ia-agentes-bc-tecnologia-remote-9cff) | BC Tecnología | Get on Board | new |
 | 51 | 38 | 72 | unknown | 47 | [Data Infrastructure Engineer-Spain](https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain?utm_source=api) | Doodle | Himalayas | new |
 | 50 | 0 | 90 | low | 44 | [Desarrollador Full-Stack Liferay LATAM](https://www.getonbrd.com/jobs/desarrollador-full-stack-liferay-bc-tecnologia-santiago) | BC Tecnología | Get on Board | new |
@@ -45,14 +43,12 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 49 | 24 | 52 | unknown | 45 | [SAP BTP Developer/ Architect (Anywhere in India; preferred Bengaluru, Hyderabad ](https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad?utm_source=api) | Tenthpin | Himalayas | new |
 | 48 | 0 | 72 | low | 43 | [Senior PHP Engineer ( Laravel + AWS)](https://www.getonbrd.com/jobs/senior-php-engineer-laravel-aws-improving-remote) | Improving | Get on Board | new |
 | 48 | 2 | 72 | low | 43 | [Arquitecto de Datos (Data & AI)](https://www.getonbrd.com/jobs/arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8) | Grupo Mariposa | Get on Board | new |
-| 48 | 24 | 65 | low | 44 | [Senior Data Analyst - Marketing](https://jobicy.com/jobs/156941-senior-data-analyst-marketing) | Supabase | Jobicy | new |
 | 48 | 24 | 72 | unknown | 44 | [DevOps Engineer](https://himalayas.app/companies/logicalis-com/jobs/devops-engineer?utm_source=api) | Logicalis Spain | Himalayas | new |
 | 48 | 24 | 72 | unknown | 44 | [DevOps Architect](https://himalayas.app/companies/logicalis-com/jobs/devops-architect?utm_source=api) | Logicalis Spain | Himalayas | new |
 | 48 | 17 | 82 | unknown | 43 | [Data Engineer](https://himalayas.app/companies/scalian/jobs/data-engineer?utm_source=api) | Scalian | Himalayas | new |
 | 48 | 33 | 65 | unknown | 44 | [Data & Analytics Engineer (freelancer)](https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer?utm_source=api) | The Agile Monkeys | Himalayas | new |
 | 47 | 0 | 72 | low | 42 | [Senior Database Engineer Maria DB & PostgreSQL](https://www.getonbrd.com/jobs/senior-database-engineer-maria-db-postgresql-improving-remote) | Improving | Get on Board | new |
 | 47 | 0 | 72 | low | 42 | [Sr. Java Platform Engineer](https://www.getonbrd.com/jobs/sr-java-platform-engineer-improving-remote) | Improving | Get on Board | new |
-| 47 | 24 | 62 | low | 43 | [Distributed Systems Engineer](https://jobicy.com/jobs/156945-distributed-systems-engineer-3) | Canonical | Jobicy | new |
 | 47 | 17 | 72 | unknown | 42 | [DevOps Engineer](https://himalayas.app/companies/scalian/jobs/devops-engineer?utm_source=api) | Scalian | Himalayas | new |
 | 45 | 40 | 72 | unknown | 47 | [Devops Engineer (REMOTO/ESPAÑA)](https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana?utm_source=api) | IRIUM Portugal | Himalayas | new |
 | 45 | 40 | 72 | unknown | 47 | [Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch](https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch?utm_source=api) | Canonical | Himalayas | new |

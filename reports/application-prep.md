@@ -1,6 +1,6 @@
 # Port — Application prep
 
-Generado: 2026-11-01T06:23:10.203Z
+Generado: 2026-11-01T15:16:39.668Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
@@ -12,7 +12,7 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Fuente: Get on Board · SOURCE TRUST: official_public_api
 - COMPANY TRUST: medium · LISTING RISK: **low**
 - Señales trust: ninguna
-- Modalidad: remote · Colombia, Peru, Argentina, Chile
+- Modalidad: remote · Colombia, Perú, Argentina, Chile
 - Tipo detectado: full_time
 - Seniority del aviso: Senior
 - Current Fit: **44** · Transferability: **66** · Gap Cost: **medium**
