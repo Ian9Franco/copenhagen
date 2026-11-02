@@ -2,7 +2,7 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-11-01T20:35:56.781Z",
+  "generated_at": "2026-11-02T06:24:23.798Z",
   "career_model_version": 2,
   "application_mode": "manual",
   "source_failures": [
@@ -13,8 +13,8 @@
     "Arbeitnow": 61,
     "Get on Board": 0,
     "RemoteOK": 99,
-    "Jobicy": 4,
-    "Himalayas": 84
+    "Jobicy": 3,
+    "Himalayas": 83
   },
   "top_picks": {
     "main": [
@@ -169,11 +169,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z",
+      "last_seen": "2026-11-02T06:24:23.798Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist",
@@ -616,11 +616,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-31T14:35:51.637Z",
-      "last_seen": "2026-11-01T20:35:56.781Z",
+      "last_seen": "2026-11-02T06:24:23.798Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
@@ -797,7 +797,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RNTIuMTczLjExLjcy when applying to show you read the job post completely (#RNTIuMTczLjExLjcy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RNTIuMTYwLjE2NS41MA== when applying to show you read the job post completely (#RNTIuMTYwLjE2NS41MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "description_truncated": false,
       "salary_value": {
         "status": "unparsed",
@@ -897,11 +897,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-27T14:38:54.174Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto",
@@ -1045,11 +1045,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100",
@@ -1199,11 +1199,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/initium-software/jobs/devops-engineer",
@@ -1346,11 +1346,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/initium-software/jobs/devops-engineer-react-node",
@@ -1497,11 +1497,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain",
@@ -1651,11 +1651,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -1792,17 +1792,173 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z",
+      "last_seen": "2026-11-02T06:24:23.798Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
         "title_hash": "2ccf99e906f2"
       },
       "blocking_key": "bip|devops|spain"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/agilityfeat/jobs/senior-devops-engineer-webrtc-livekit-4561795709",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/agilityfeat/jobs/senior-devops-engineer-webrtc-livekit-4561795709",
+      "url": "https://himalayas.app/companies/agilityfeat/jobs/senior-devops-engineer-webrtc-livekit-4561795709?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/agilityfeat/jobs/senior-devops-engineer-webrtc-livekit-4561795709?utm_source=api",
+      "title": "Senior DevOps Engineer (WebRTC/LiveKit)",
+      "company": "AgilityFeat",
+      "location": "Albania, Andorra, Anguilla, Antigua and Barbuda, Argentina, Aruba, Austria, Bahamas, Barbados, Belarus, Belgium, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czechia, Denmark, Dominica, Dominican Republic, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Grenada, Guatemala, Guernsey, Guyana, Haiti, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jamaica, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Moldova, Monaco, Montenegro, Montserrat, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Puerto Rico, Romania, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, San Marino, Serbia, Slovakia, Slovenia, South Georgia and the South Sandwich Islands, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Trinidad and Tobago, Turks and Caicos Islands, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S., Åland Islands",
+      "place_text": "Albania, Andorra, Anguilla, Antigua and Barbuda, Argentina, Aruba, Austria, Bahamas, Barbados, Belarus, Belgium, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czechia, Denmark, Dominica, Dominican Republic, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Grenada, Guatemala, Guernsey, Guyana, Haiti, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jamaica, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Moldova, Monaco, Montenegro, Montserrat, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Puerto Rico, Romania, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, San Marino, Serbia, Slovakia, Slovenia, South Georgia and the South Sandwich Islands, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Trinidad and Tobago, Turks and Caicos Islands, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S., Åland Islands",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "contract",
+      "published_at": "2026-11-01T11:53:33.000Z",
+      "salary": "",
+      "tags": [
+        "Developer",
+        "DevOps-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "Site-Reliability-Engineer",
+        "Platform-Engineer",
+        "Senior-DevOps-Developer",
+        "Senior-DevOps",
+        "Senior-DevOps-Platform-Engineer",
+        "cloud-spain"
+      ],
+      "description": "Senior DevOps Engineer (WebRTC/LiveKit) Location: Remote from the Americas or Europe Working hours: Full-time, aligned w/ Eastern or Central Time business hours. For Europeans, 4 hours of daily overlap with Eastern Time (9am-5pm ET) is acceptable, typically afternoons into early evening local time. Job Type: Contractor, monthly payments in US dollars Benefits: 9 paid holidays, plus 10 days of PTO available after 6 months About Us WebRTC.ventures is one of the few software development agencies in the world dedicated exclusively to real-time applications. Originally founded as AgilityFeat in 2010, we began specializing in WebRTC in 2015. We are headquartered in Charlottesville, VA with a QA center in Panama City, Panama. With primary operations in North and South America, we serve clients around the globe. Our team has always been remote, which fuels our passion for real-time communications. The Role We are looking for an proactive Senior DevOps Engineer with 5+ years of hands-on experience implementing DevOps practices in cloud environments and 3+ years of WebRTC infrastructure experience, including hands-on work with LiveKit. Please do not apply if you do not have these qualifications. Your application will not be considered. Fluent English is a must! B2+ or above is required. Please do not apply if you have only intermediate English. Key Responsibilities Build and scale infrastructure for AI agents using LiveKit and other real-time frameworks Configure and manage cloud-based infrastructure based not restricted to AWS for web and mobile applications Implement and manage CI/CD pipelines, infrastructure as code (IaC), and automated testing Automate deployment, scaling, and monitoring of real-time applications Establish and maintain observability systems including logging, monitoring, metrics collection, and alerting Ensure system reliability and performance through proactive monitoring and incident response planning Participate in daily standups with teammates and weekly demos with clients Collaborate with development teams to optimize build processes and deployment strategies Assist in maintaining security best practices across infrastructure and application deployments Technical Qualifications Experience deploying and operating LiveKit (self-hosted or Cloud) to support AI agent workloads 3+ years of experience building and operating WebRTC infrastructure, including media server deployment, TURN/STUN configuration, and real-time connectivity troubleshooting 5+ years of hands-on experience implementing DevOps practices in cloud environments, with a strong focus on CI/CD pipelines, Docker, Terraform, and Ansible Proficient with REST APIs, Webhooks, Docker/Kubernetes, and IaaS platforms in AWS and at least one of the following: Google Cloud, Azure Strong experience in containerization, orchestration, and automation using Docker, Kubernetes, Terraform, and Ansible Experience with observability tools (e.g., Prometheus, Grafana, ELK stack, CloudWatch, Datadog) and setting up logging, monitoring, and alerts Solid understanding of database technologies (MySQL, PostgreSQL, NoSQL) and data storage solutions (S3, EBS) Strong knowledge of networking principles and protocols, including OSI layers, TCP/IP, DNS, and load balancing Bachelor's degree in Computer Science, Engineering, or equivalent practical experience General Qualifications Fluent English (B2+), both written and spoken Proactive, professional, respectful, and courteous communication An entrepreneurial mindset with the initiative and resourcefulness to quickly identify problems, overcome challenges, and provide timely solutions Experience working in agile teams using Scrum or Kanban methodologies Ability to work remotely with headset/camera equipment, responsive during working hours, a quiet place to work and reliable internet connection Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 16,
+      "keyword_main_score": 26,
+      "keyword_side_score": 27,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "automation",
+        "webhook",
+        "devops"
+      ],
+      "main_signals": [
+        "full-time"
+      ],
+      "side_signals": [
+        "contract"
+      ],
+      "negative_hits": 0,
+      "main_score": 50,
+      "side_score": 45,
+      "potential": {
+        "current_fit": 24,
+        "transferability": 68,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 53,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops",
+          "cloud"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": true,
+        "place_bridge": true,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: PostgreSQL (postgresql) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
+          "+ evidencia directa: Automated testing (automated testing) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer",
+          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
+          "- gap herramienta: aws",
+          "- gap herramienta: azure",
+          "- gap herramienta: kubernetes",
+          "- gap herramienta: terraform"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "azure",
+            "type": "tool"
+          },
+          {
+            "term": "kubernetes",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 50,
+        "side_rank": 45,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "unknown",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-11-02T06:24:23.798Z",
+        "history": []
+      },
+      "first_seen": "2026-11-02T06:24:23.798Z",
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581",
@@ -1958,11 +2114,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-28T05:55:09.620Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/convotis-schweiz-ag/jobs/devops-engineer-4055125460",
@@ -2109,11 +2265,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/alguna/jobs/data-engineer-first-data-hire",
@@ -2251,11 +2407,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/q-tech/jobs/bigblue_data-engineer",
@@ -2402,11 +2558,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z",
+      "last_seen": "2026-11-02T06:24:23.798Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/q-tech/jobs/bigblue_data-engineer",
@@ -2555,11 +2711,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-engineer",
@@ -2718,169 +2874,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-architect",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/logicalis-com/jobs/devops-architect",
-      "url": "https://himalayas.app/companies/logicalis-com/jobs/devops-architect?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/logicalis-com/jobs/devops-architect?utm_source=api",
-      "title": "DevOps Architect",
-      "company": "Logicalis Spain",
-      "location": "Spain",
-      "place_text": "Spain",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-11-01T19:52:22.000Z",
-      "salary": "",
-      "tags": [
-        "Developer",
-        "DevOps-Architect",
-        "Cloud-Architect",
-        "Platform-Engineer",
-        "Site-Reliability-Engineer",
-        "Kubernetes-Engineer",
-        "DevOps-Cloud-Architect",
-        "Principal-DevOps-Architect",
-        "Senior-DevOps-Architect",
-        "DevSecOps-Architect",
-        "Azure-DevOps-Architect",
-        "DevOps-Architecture-Jobs"
-      ],
-      "description": "En Logicalis Spain estamos buscando un/a DevOps Architect para hacer crecer nuestro equipo de Madrid. Buscamos un DevOps Architect para liderar el diseño, implantación y evolución de plataformas Cloud Native y ecosistemas DevOps de nueva generación. Será responsable de definir arquitecturas de referencia para plataformas Kubernetes multicloud, establecer estándares de CI/CD y GitOps, y garantizar que las soluciones sean escalables, resilientes, seguras y orientadas a la automatización. La posición tendrá un papel clave en la definición de plataformas de contenedores, estrategias de despliegue, gobierno DevOps y aceleradores tecnológicos, trabajando estrechamente con equipos de desarrollo, infraestructura, seguridad y operaciones. Responsabilidades: Arquitectura Cloud Native y Kubernetes • Diseñar arquitecturas de referencia para plataformas Kubernetes empresariales en entornos multicloud. • Liderar el despliegue y evolución de plataformas basadas en AKS, EKS, ECS, ACS, OpenShift y Kubernetes gestionado. • Definir estándares de disponibilidad, escalabilidad, resiliencia y recuperación ante desastres. • Diseñar plataformas multi-tenant, networking, observabilidad y estrategias de seguridad para entornos Cloud Native. • Definir patrones de referencia para onboarding de aplicaciones y equipos sobre plataformas Kubernetes. Diseño de Plataformas DevOps • Diseñar y gobernar ecosistemas DevOps corporativos. • Definir arquitecturas CI/CD para múltiples entornos y líneas de producto. • Estandarizar procesos de integración continua, testing, promoción y despliegue. • Definir estrategias de versionado, gestión de releases y control de cambios. GitOps y Automatización de Despliegues • Diseñar e implantar arquitecturas GitOps para despliegues automatizados. • Definir estándares para ArgoCD, FluxCD y herramientas de Continuous Delivery. • Diseñar repositorios de configuración, estrategias de promoción entre entornos y gestión declarativa de infraestructura. • Gobernar el uso de Helm Charts y paquetes reutilizables para Kubernetes. Observabilidad, Seguridad y Fiabilidad • Diseñar arquitecturas de observabilidad, logging y monitorización. • Definir controles de seguridad para contenedores, imágenes, registros y cadena de suministro software. • Establecer estándares de rendimiento, capacidad y fiabilidad de plataforma. Requisitos indispensables Experiencia • Experiencia demostrable diseñando e implantando plataformas Kubernetes empresariales. • Experiencia definiendo arquitecturas DevOps, GitOps y Cloud Native. • Experiencia liderando proyectos de transformación tecnológica en entornos complejos. • Experiencia definiendo estándares técnicos y buenas prácticas para múltiples equipos. Conocimientos técnicos Contenedores y Kubernetes • Kubernetes avanzado. • OpenShift. • Azure Kubernetes Service (AKS). • Amazon Elastic Kubernetes Service (EKS). • Amazon ECS. • Azure Container Services. • Diseño de plataformas multicloud. • Networking en Kubernetes. • Ingress Controllers. • Service Mesh. • Gestión de certificados. • Gestión de identidades y secretos. CI/CD y DevOps • Azure DevOps. • GitHub. • GitHub Actions. • Azure DevOps Pipelines. • Jenkins (valorable). • Diseño de pipelines YAML multietapa. • Estrategias de promotion y release management. GitOps • ArgoCD. • FluxCD. • Helm Charts. • Kustomize. • GitOps Operating Model. Automatización e Infraestructura Observabilidad y Fiabilidad • Prometheus. • Grafana. • ELK / OpenSearch. • Monitorización distribuida. • Logging centralizado. • Gestión de alertas y métricas. Competencias • Pensamiento estratégico y orientación a la escalabilidad. • Elevada capacidad de liderazgo técnico. • Habilidades de comunicación y presentación. • Capacidad para definir estándares y modelos de gobierno. • Orientación a la mejora continua y automatización. Skills deseables • Terraform • Python para automatización y desarrollo de herramientas. • Bash scripting. • PowerShell scripting. • APIs REST y automatización de integraciones. • Platform Engineering. • Site Reliability Engineering (SRE). • Kubernetes Operators. • Istio y Service Mesh. • Backstage Developer Portal. • DevSecOps. • AWS. • Microsoft Azure. • Google Cloud Platform (GCP). • MCP (Model Context Protocol). • AIOps y automatización inteligente. Experiencia en grandes entornos corporativos con múltiples plataformas y equipos. ¿Qué te ofrecemos en Logicalis Spain ? Modalidad de trabajo 100% en remoto. Horario de oficina con jornada intensiva todos los viernes del año, mes de julio y agosto. Puesto de trabajo estable. Proyecto continuado de larga duración. Posibilidad de acogerse a planes de retribución flexible: Wellbeing, Wellhub, Seguro Médico Privado, Tarjeta Restaurante. Formación y certificación continuada en el puesto de trabajo, tanto a nivel tecnológico como de metodologías de trabajo en el sector IT. Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Himalayas",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 8,
-      "keyword_main_score": 11,
-      "keyword_side_score": 8,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": true,
-      "access": "relocation-watch",
-      "matched_keywords": [
-        "devops",
-        "platform engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 1,
-      "main_score": 48,
-      "side_score": 44,
-      "potential": {
-        "current_fit": 24,
-        "transferability": 65,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 12,
-        "commute_note": "no es viaje diario; commute() no recibe Valencia",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops",
-          "cloud"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": false,
-        "work_after_valencia": true,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: GitHub Actions (github actions, ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Docker (container) · fuentes: MIM · profundidad sin confirmar",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops, sre) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: aws",
-          "- gap herramienta: azure",
-          "- gap herramienta: gcp",
-          "- gap herramienta: kubernetes",
-          "- gap herramienta: terraform",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops, cloud"
-        ],
-        "gaps": [
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "azure",
-            "type": "tool"
-          },
-          {
-            "term": "gcp",
-            "type": "tool"
-          },
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "terraform",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 48,
-        "side_rank": 44,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": true,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "unknown",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
-        "history": []
-      },
-      "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/webio/jobs/devops-engineer",
@@ -3022,11 +3020,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics",
@@ -3184,11 +3182,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-22T05:01:33.698Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer",
@@ -3313,11 +3311,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-23T05:02:16.256Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/aida-recruitment/jobs/data-engineer-sweden",
@@ -3461,11 +3459,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -3606,11 +3604,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z",
+      "last_seen": "2026-11-02T06:24:23.798Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -3765,11 +3763,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/crystal-intelligence/jobs/devops-engineer-9354844723",
@@ -3921,154 +3919,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana",
-      "url": "https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana?utm_source=api",
-      "title": "Devops Engineer (REMOTO/ESPAÑA)",
-      "company": "IRIUM Portugal",
-      "location": "Portugal, Spain",
-      "place_text": "Portugal, Spain",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Mid-level",
-      "employment_type": "full_time",
-      "published_at": "2026-10-23T11:31:24.000Z",
-      "salary": "2400-2800 EUR / monthly",
-      "tags": [
-        "Developer",
-        "DevOps-Engineer",
-        "Site-Reliability-Engineer",
-        "Cloud-Engineer",
-        "Platform-Engineer",
-        "Infrastructure-Engineer",
-        "Remote-DevOps-Engineer",
-        "DevOps-Engineer-II",
-        "cloud-spain"
-      ],
-      "description": "Na IRIUM queremos que persigas siempre tus sueños. Aquí, prepárate para alcanzar tus metas mientras disfrutas del camino. Actualmente estamos buscando un DevOps Engineer . Competencias Requeridas: Experiencia práctica en la implementación y mantenimiento de plataformas DevOps en entornos Cloud y Kubernetes; Experiencia en el desarrollo y mantenimiento de pipelines CI/CD, incluyendo GitLab CI/CD, GitLab Runner y YAML; Experiencia con Terraform y Ansible; Experiencia en la creación y mantenimiento de imágenes de máquinas virtuales y contenedores, incluyendo conocimientos de seguridad, vulnerabilidades y control de versiones; Experiencia con Kubernetes, Helm y GitOps; Conocimientos de Docker y Dockerfiles; Experiencia con Linux, Bash y Python para automatización e integración con APIs; Conocimientos de Maven/Gradle y JFrog Artifactory o Nexus; Experiencia en la integración de pruebas y controles de seguridad en pipelines CI/CD; Conocimientos de SonarQube, Checkov y herramientas de análisis de dependencias e imágenes; Inglés avanzado; Español B2/C1. Competencias Deseables: Experiencia con Argo CD; Experiencia con STACKIT. Modalidad: 100% Remoto Rango Salarial: 2.400€–2.800€ brutos al mes Nota: Incluye todos los componentes retributivos definidos para el puesto, de acuerdo con la política de la empresa. ¿Qué ofrecemos? Una empresa innovadora y en crecimiento, con muchas oportunidades de desarrollo profesional. Retribución acorde con tu experiencia y desempeño. Acceso a retribución flexible y seguro médico como beneficio social. Acceso ilimitado a formación tecnológica en modalidad libre. IRIUM está formada por profesionales dinámicos y proactivos. Nuestros valores son la responsabilidad y el compromiso con la calidad del trabajo. Este es el espíritu que buscamos en IRIUM, independientemente de tu edad. Si te identificas con estos valores, ¡esta es tu empresa! Podemos construir juntos el futuro. ¿Hablamos? Envía tu candidatura a: En IRIUM defendemos un mundo sin estereotipos ni limitaciones y creemos en la igualdad para todos, principios que suscribimos en nuestro Plan de Igualdad y Código Ético, garantizando la igualdad de trato y de oportunidades independientemente de cualquier condición personal, física o social. Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "parsed",
-        "amount": 2400,
-        "amount_max": 2800,
-        "currency": "EUR",
-        "period": "monthly",
-        "gross_or_net": "unknown",
-        "source": "Himalayas",
-        "raw": "2400-2800 EUR / monthly"
-      },
-      "base_score": 8,
-      "keyword_main_score": 1,
-      "keyword_side_score": -12,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": true,
-      "access": "restricted-remote",
-      "matched_keywords": [
-        "devops"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 45,
-      "side_score": 47,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 67,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (moneda EUR) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 70,
-        "commute_note": "no es viaje diario; commute() no recibe Valencia",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": false,
-        "work_after_valencia": true,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: kubernetes",
-          "- gap herramienta: terraform",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "no es viaje diario; commute() no recibe Valencia"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "terraform",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 45,
-        "side_rank": 47,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": true,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "unknown",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
-        "history": []
-      },
-      "first_seen": "2026-10-23T19:58:45.743Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/alfadocs-com/jobs/senior-data-engineer-freelance-all-genders",
@@ -4204,11 +4059,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles",
@@ -4344,11 +4199,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sidekick-network-gmbh-co-kg/jobs/senior-devops-engineer-repository-migration-freelance-remote",
@@ -4493,11 +4348,167 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
+      "url": "https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops?utm_source=api",
+      "title": "Arquitecto/a de Preventa DevOps",
+      "company": "knowmad mood",
+      "location": "Spain",
+      "place_text": "Spain",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-15T21:50:25.000Z",
+      "salary": "",
+      "tags": [
+        "Developer",
+        "Solutions-Architect",
+        "DevOps-Architect",
+        "Cloud-Architect",
+        "Pre-Sales-Architect",
+        "Technical-Architect",
+        "Ingeniería-de-preventa",
+        "Principal-DevOps-Architect",
+        "Consultor-A-De-Preventa",
+        "DevOps-Cloud-Architect",
+        "Senior-DevOps-Architect",
+        "cloud-spain"
+      ],
+      "description": "We are knowmad mood ! Somos una compañía líder en transformación digital, en constante evolución y a la vanguardia de la tecnología. Nacimos para provocar un cambio real a través de la innovación y el desarrollo sostenible, con la misión de aportar valor a los clientes e impulsar nuestro talento. Actualmente contamos con una vacante como Arquitecto de Preventa DevOps con fuerte liderazgo técnico y capacidad para definir y liderar arquitecturas DevOps & Cloud en proyectos cerrados y en procesos de preventa técnica. Será la referencia arquitectónica frente al cliente, estableciendo estándares de plataforma, buenas prácticas y asegurando una visión estratégica de modernización y seguridad. Formamos un equipo de más de 3.000 profesionales creativos, digitales e innovadores, unidos por un propósito común y con capacidad para generar conexiones globales. Somos un equipo responsable, flexible y adaptable, que aporta valor, visión, creatividad, expertise y pasión por la tecnología en cada proyecto. Nuestros valores —colaboración, innovación, compromiso, diversión y confianza— guían nuestro camino hacia la excelencia. ¿Qué responsabilidades tendrás como Arquitecto de Preventa ? Diseñar arquitecturas Cloud e híbridas para soluciones y aplicaciones. Liderar técnicamente la definición de soluciones en preventa (arquitectura, alcance y estimaciones). Actuar como interlocutor técnico con clientes y equipos internos. Definir arquitecturas de contenedores, Kubernetes, CI/CD e IaC . Diseñar redes y comunicaciones seguras (VPC, VPN, segmentación). Integrar security by design en las soluciones propuestas. Establecer estándares de plataforma y buenas prácticas. Aportar criterio arquitectónico y liderazgo técnico por influencia. Para desarrollar estas responsabilidades, ¿Qué requisitos técnicos demandamos? Arquitectura Cloud & On‑Prem ( Experiencia sólida en al menos en un cloud (preferible AWS), Capacidad de adaptación a otros (Azure, GCP), diseño de infraestructuras híbridas, gestión avanzada de redes, VPNs, segmentación y comunicaciones seguras ) Contenedores & Orquestación ( experiencia real con Docker o Podman, Kubernetes en entornos: Gestionados: EKS, AKS, GKE, On‑Prem: Rancher y patrones de despliegue en K8s) Infraestructura como Código ( Experiencia sólida con Terraform, Creación de módulos reutilizables ) CI/CD ( Experiencia práctica con: GitLab CI, GitHub Actions, Jenkins, Diseño de pipelines multi‑entorno ) Seguridad Técnica ( IAM, RBAC, secretos, network policies, hardening) Skills necesarias: Alta capacidad de interlocución técnica con clientes a nivel arquitecto.. Habilidad para traducir complejidad técnica en mensajes claros orientados a preventa. Criterio arquitectónico sólido y autonomía en la toma de decisiones. Soporte técnico en preventa : soluciones, estimaciones, alcance y enfoque técnico. Mentalidad pragmática , equilibrando excelencia técnica, viabilidad económica y escalabilidad. Liderazgo técnico por influencia, ejemplo y credibilidad. Y con nosotros podrás disfrutar de: Contrato indefinido Modelo de trabajo en remoto 🏡 Horario flexible ⏰: horario flexible entrada 8.30h salida 18h con viernes intensivo de 8h a 15h y en verano (julio y agosto) intensivo de 8h a 15h Vacaciones 🌴: 22 días de vacaciones + 2 días de libre disposición, además de los días 24 y 31 de diciembre libres. Contrato indefinido 📄: Desde el primer día, con opción de 12 o 14 pagas. Retribución flexible 💳: Tarjeta restaurante, cheque guardería, seguro médico, formación y otros beneficios con ventajas fiscales. Club de ventajas 🎁: Descuentos en tecnología, ocio y formación. Formación continua 📚: Acceso a Udemy Business, cursos de idiomas, certificaciones oficiales y formación técnica. Plan de carrera 🚀: Acompañamiento para crecer, especializarte o asumir nuevos retos. Bienestar integral 💚: Programas de nutrición, actividad física y equilibrio emocional. Conciliación +VIDA 👨 👩 👧 👦: Asistencia personal y familiar 24/7. Ambiente inclusivo 🌍: Entorno diverso y multicultural. Eventos sociales 🎮: Actividades para conectar con el equipo. ¡ Apúntate y te daremos más detalles! 🚀 Para estar al corriente de nuestras novedades síguenos aquí -&gt; knowmad mood En knowmad mood nos comprometemos con la igualdad de oportunidades y el respeto a la diversidad. Aplicamos nuestro Plan de Igualdad y el principio de no discriminación en todos nuestros procesos de selección. Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 4,
+      "keyword_main_score": 7,
+      "keyword_side_score": 4,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": true,
+      "access": "relocation-watch",
+      "matched_keywords": [
+        "devops"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 1,
+      "main_score": 45,
+      "side_score": 41,
+      "potential": {
+        "current_fit": 22,
+        "transferability": 48,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 45,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 12,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": false,
+        "work_after_valencia": true,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: GitHub Actions (github actions, ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: aws",
+          "- gap herramienta: azure",
+          "- gap herramienta: gcp",
+          "- gap herramienta: kubernetes",
+          "- gap herramienta: terraform",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: devops",
+          "no es viaje diario; commute() no recibe Valencia"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "azure",
+            "type": "tool"
+          },
+          {
+            "term": "gcp",
+            "type": "tool"
+          },
+          {
+            "term": "kubernetes",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 45,
+        "side_rank": 41,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": true,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "unknown",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-11-02T06:24:23.798Z",
+        "history": []
+      },
+      "first_seen": "2026-11-02T06:24:23.798Z",
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer",
@@ -4646,11 +4657,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer",
@@ -4799,11 +4810,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/saphetor/jobs/senior-devops-engineer-1055789064",
@@ -4950,11 +4961,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478",
@@ -5106,11 +5117,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/canonical/jobs/engineering-director-business-data",
@@ -5254,11 +5265,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100",
@@ -5420,11 +5431,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100",
@@ -5583,11 +5594,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
+      "last_seen": "2026-11-02T06:24:23.798Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/devop-one/jobs/senior-data-engineer",
@@ -5721,155 +5732,17 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
+        "updated_at": "2026-11-02T06:24:23.798Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-01T20:35:56.781Z",
+      "last_seen": "2026-11-02T06:24:23.798Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/devop-one/jobs/senior-data-engineer",
         "title_hash": "bf1b57ccd2ff"
       },
       "blocking_key": "devop one|data|spain"
-    },
-    {
-      "id": "jobicy-154082",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "154082",
-      "url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement",
-      "apply_url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement",
-      "title": "Senior Software Engineer, Backend (Money Movement)",
-      "company": "Phantom",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-26T04:15:22.000Z",
-      "salary": "",
-      "seniority": "Senior",
-      "tags": [
-        "Software Engineering",
-        "Senior"
-      ],
-      "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time data and the verified performance of top traders. With self-custody and access to open networks at its core, Phantom lets them control their financial moves in the same app they use to safely store or spend money worldwide. Phantom has reached #1 in Google Play's finance category and consistently ranks in the top 50 apps across all categories. Phantom partners with many of the most trusted and influential names in finance like Hyperliquid, Stripe, Kalshi and Visa, to make the most popular and innovative financial products accessible to everyone. We are around 180 people, fully remote, backed by a $150M Series C investment from a16z, Sequoia Capital and Paradigm. Responsibilities Staff Backend Engineer who blends systems thinking with product pragmatism and a real passion for crypto. You’ll design, maintain, and evolve the backend services and APIs that connect Phantom Cash to blockchains. You understand both client-server architecture and blockchain protocols, and you know how to balance reliability, quality, and speed. You communicate clearly across pods, document rigorously, and elevate the engineering bar through execution and mentorship. Your work will make Phantom Cash feel dependable, seamless, and ready to scale. Qualifications Bachelors degree in Computer Science or related technical field or equivalent practical experience Pragmatic engineering mindset, focuses on results and user impact, not abstract purity. Proactive and outcome-oriented: anticipates problems, pushes features to completion without waiting for perfect specs. Strong communicator and pragmatic problem solver - explains complexity simply, favors progress over perfection. Node.js / NestJS at scale; event-driven design (queues, retries, idempotency). REST API architecture: versioning, pagination, error models, authentication, rate-limiting. Full-stack awareness: understands trade-offs of state management (client vs server) and latency budgets. Distributed-systems fundamentals: concurrency, ordering, retries, data consistency. Nice to Have Kubernetes + AWS ops; CI/CD; observability; on-call ownership. Deep interest in crypto - keeps up with ecosystem changes, wallets, protocols, and security norms. Previous hands-on experience in crypto or fintech (exchanges, wallets, payment rails, ledgers). Smart-contract and protocol understanding: knows how on-chain programs interact with off-chain services. Blockchain integration experience — Solana preferred, EVM acceptable. Has shipped high-quality products in mature, high-bar engineering organizations. Why Work with Us We are a team of experienced builders in the blockchain and crypto industry. Our journey began from users seeking an easy, seamless path to accessing the crypto ecosystem. This passion fueled our exponential growth, allowing us to onboard over 7M+ active users in just over three years; with our user base growing weekly. Our dedication to a secure and seamless user experience has made us the leading wallet on Solana as well as our multi-chain approach enhances our platform's versatility, meeting the needs of a diverse and growing user base. By staying at the forefront of technology and user expectations, we continue to innovate and set industry standards on self-custodial crypto wallets. There has never been a better time to work in crypto to help shape the future of innovation with a focus around the wallet experience! First impressions matter: Wallets are responsible for a users first impression with crypto and onboarding new users into crypto. By ensuring that a user has a great first-time experience with crypto, we can help supercharge the growth of the entire ecosystem. Make crypto easier to navigate: There is no easy way for a user to discover and navigate all that crypto has to offer. Wallets have a unique opportunity to help users not only onboard to crypto but also stay retained by exploring new things to do. We live in a multi-chain world: We currently support Solana, Ethereum, Polygon and Bitcoin with more networks to come in the new future. We are focused on creating a unified, multi-chain crypto experience for users. Benefits Competitive salary and equity Comprehensive insurance (medical/dental/vision) - Employee 100% covered Stipend for your ideal remote set-up Flexible hours and a supportive remote environment Unlimited vacation: Take time when you need it (and we really mean it!) 401(k) retirement plan Monthly wellness benefit Weekly meal benefit Global off-sites #LI-DNP We strongly encourage candidates of all backgrounds to apply. We believe that our work is stronger with a variety of perspectives, and we’re eager to further diversify our company. If you have a background that you feel would make an impact at Phantom, please consider applying. We’re committed to building an inclusive, supportive place for you to do the best work of your career. By submitting your resume and application materials, you acknowledge and agree that Phantom Technologies, Inc. (\"Phantom\") collects and processes your personal information (including application materials, interview records, and related data) to evaluate your candidacy. Phantom may use AI-powered tools and third-party service providers for transcription, note-taking, scheduling, and other administrative tasks. Phantom does not sell your information and your materials will be handled securely and in accordance with applicable data protection laws.",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 14,
-      "keyword_main_score": 21,
-      "keyword_side_score": 21,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "full-stack",
-        "backend",
-        "integration"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "contract"
-      ],
-      "negative_hits": 0,
-      "main_score": 26,
-      "side_score": 20,
-      "potential": {
-        "current_fit": 24,
-        "transferability": 56,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 90,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 42,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops",
-          "full_stack"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: TypeScript (node.js) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
-          "+ evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault",
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: aws",
-          "- gap herramienta: kubernetes",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops, full_stack",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 26,
-        "side_rank": 20,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "high",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": [
-          "scam_pattern"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-11-01T20:35:56.781Z",
-        "history": []
-      },
-      "first_seen": "2026-10-26T15:01:51.070Z",
-      "last_seen": "2026-11-01T20:35:56.781Z"
     }
   ]
 }
