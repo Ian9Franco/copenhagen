@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-11-02T18:30:34.921Z
+Generado: 2026-11-03T06:58:20.030Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (12), Arbeitnow (62), Get on Board (533), RemoteOK (99), Jobicy (3), Himalayas (83)
+Fuentes: Remotive (12), Arbeitnow (66), Get on Board (529), RemoteOK (99), Jobicy (3), Himalayas (83)
 
 ## MAIN — Top picks
 
@@ -30,14 +30,14 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 Valencia y España, para una mudanza posterior con la familia. La ventana de mudanza sigue unknown: esta lista no rankea el viaje como inminente.
 
 - [(Senior) Data Engineer](https://himalayas.app/companies/devop-one/jobs/senior-data-engineer?utm_source=api) — Devop.One · Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands · not_yet_ordered
+- [Analista Desenvolvedor(a) – Python / DevOps](https://himalayas.app/companies/grupo-data/jobs/analista-desenvolvedor-a-python-devops?utm_source=api) — Grupo Data · Brazil, Portugal, Spain · not_yet_ordered
 - [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) — BIP · Spain · not_yet_ordered
 - [BIGBLUE_Data Engineer](https://himalayas.app/companies/q-tech/jobs/bigblue_data-engineer?utm_source=api) — Q-Tech · Spain · not_yet_ordered
 - [Data Engineer](https://himalayas.app/companies/scalian/jobs/data-engineer?utm_source=api) — Scalian · Spain · not_yet_ordered
-- [Data Engineer (First Data Hire)](https://himalayas.app/companies/alguna/jobs/data-engineer-first-data-hire?utm_source=api) — Alguna · Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, South Africa, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands · not_yet_ordered
 
 ## Cobertura
 
-- Universo curado guardado: **61** oportunidades.
+- Universo curado guardado: **62** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.

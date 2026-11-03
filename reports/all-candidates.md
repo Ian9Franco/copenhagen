@@ -1,12 +1,13 @@
 # Port — All candidates
 
-Generado: 2026-11-02T18:30:34.921Z
+Generado: 2026-11-03T06:58:20.030Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
 | MAIN | Fit | Potencial | Riesgo | SIDE | Rol | Empresa | Fuente | Estado |
 | ---: | ---: | ---: | --- | ---: | --- | --- | --- | --- |
 | 61 | 44 | 90 | low | 53 | [Full-Stack Engineer (React / .NET / AWS)](https://www.getonbrd.com/jobs/full-stack-engineer-react-net-aws-improving-remote) | Improving | Get on Board | new |
+| 59 | 40 | 86 | unknown | 52 | [Data Engineer (CDP Specialist)](https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist?utm_source=api) | dentsu international | Himalayas | new |
 | 59 | 40 | 90 | low | 52 | [Product Manager - Realtime](https://jobicy.com/jobs/156943-product-manager-realtime) | Supabase | Jobicy | reviewing |
 | 58 | 22 | 90 | medium | 50 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | Himalayas | reviewing |
 | 57 | 40 | 90 | low | 50 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remotive | new |
@@ -49,7 +50,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 47 | 0 | 72 | low | 42 | [Senior Database Engineer Maria DB & PostgreSQL](https://www.getonbrd.com/jobs/senior-database-engineer-maria-db-postgresql-improving-remote) | Improving | Get on Board | new |
 | 47 | 0 | 72 | low | 42 | [Sr. Java Platform Engineer](https://www.getonbrd.com/jobs/sr-java-platform-engineer-improving-remote) | Improving | Get on Board | new |
 | 47 | 17 | 72 | unknown | 42 | [DevOps Engineer](https://himalayas.app/companies/scalian/jobs/devops-engineer?utm_source=api) | Scalian | Himalayas | new |
-| 44 | 40 | 72 | unknown | 47 | [DevOps Engineer](https://himalayas.app/companies/crystal-intelligence/jobs/devops-engineer-9354844723?utm_source=api) | Crystal Intelligence | Himalayas | new |
+| 45 | 40 | 72 | unknown | 47 | [Analista Desenvolvedor(a) – Python / DevOps](https://himalayas.app/companies/grupo-data/jobs/analista-desenvolvedor-a-python-devops?utm_source=api) | Grupo Data | Himalayas | new |
 | 46 | 0 | 72 | low | 41 | [Tech Lead Outsystems con Inglés y Español (LATAM)](https://www.getonbrd.com/jobs/tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote) | I2B Technologies | Get on Board | new |
 | 46 | 24 | 72 | low | 42 | [Senior .NET Engineer](https://www.getonbrd.com/jobs/net-engineer-autoraptor-remote) | AutoRaptor | Get on Board | new |
 | 45 | 24 | 82 | unknown | 46 | [Senior Data Engineer (Freelance - all genders)](https://himalayas.app/companies/alfadocs-com/jobs/senior-data-engineer-freelance-all-genders?utm_source=api) | AlfaDocs.com | Himalayas | new |
