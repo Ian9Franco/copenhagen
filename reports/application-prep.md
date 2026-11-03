@@ -1,29 +1,10 @@
 # Port — Application prep
 
-Generado: 2026-11-03T06:58:20.030Z
+Generado: 2026-11-03T16:20:23.228Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
 ## MAIN
-
-### Full-Stack Engineer (React / .NET / AWS) — Improving
-
-- Oferta: https://www.getonbrd.com/jobs/full-stack-engineer-react-net-aws-improving-remote
-- Fuente: Get on Board · SOURCE TRUST: official_public_api
-- COMPANY TRUST: medium · LISTING RISK: **low**
-- Señales trust: ninguna
-- Modalidad: remote · Colombia, Peru, Argentina, Chile
-- Tipo detectado: full_time
-- Seniority del aviso: Senior
-- Current Fit: **44** · Transferability: **66** · Gap Cost: **medium**
-- Career Potential: **90** · Evidence: **low**
-- salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra
-- Viaje: sin viaje diario desde zona oeste, Buenos Aires
-- Enfatizar en CV/intro: react, full stack, full-stack, postgresql, ci/cd, docker, python
-- Verificar antes de afirmar: .net (tool), c# (tool), aws (tool), Integrarás servicios backend con sistemas externos y dispositivos conectados, resolviendo incidentes que cruzan los límites entre aplicación, infraestructura y dispositivo. (unknown), También escribirás pruebas unitarias e de integración y gestionarás la infraestructura como código. (unknown)
-- Por qué apareció: + evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu; + evidencia directa: Full-stack product engineering (full stack, full-stack) · fuentes: MIM, Factu, Pontorno-vault; + evidencia directa: PostgreSQL (postgresql) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar; + evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar
-- Gaps: .net (tool), c# (tool), aws (tool), Integrarás servicios backend con sistemas externos y dispositivos conectados, resolviendo incidentes que cruzan los límites entre aplicación, infraestructura y dispositivo. (unknown), También escribirás pruebas unitarias e de integración y gestionarás la infraestructura como código. (unknown)
-- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ### Product Manager - Realtime — Supabase
 
@@ -61,6 +42,25 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Verificar antes de afirmar: requisitos obligatorios no leídos (unknown), producto SAP (ecosystem)
 - Por qué apareció: + evidencia directa: TypeScript (node.js, nodejs) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; + evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault; + transferible: SAP technical transition (sap, sap btp) · fuentes: transferability-analysis · profundidad sin confirmar
 - Gaps: requisitos obligatorios no leídos (unknown), producto SAP (ecosystem)
+- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
+
+### Full-Stack Developer — Fluence International, Inc.
+
+- Oferta: https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
+- Fuente: Remotive · SOURCE TRUST: official_public_api
+- COMPANY TRUST: medium · LISTING RISK: **low**
+- Señales trust: ninguna
+- Modalidad: remote · Worldwide
+- Tipo detectado: contract
+- Seniority del aviso: no indicado
+- Current Fit: **40** · Transferability: **68** · Gap Cost: **unknown**
+- Career Potential: **90** · Evidence: **low**
+- salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra
+- Viaje: sin viaje diario desde zona oeste, Buenos Aires
+- Enfatizar en CV/intro: typescript, javascript, react, next.js, full-stack, webhook, docker, llm, encryption, automation, workflow
+- Verificar antes de afirmar: n8n (tool), aws (tool), requisitos obligatorios no leídos (unknown)
+- Por qué apareció: + evidencia directa: TypeScript (typescript, javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; + evidencia directa: React (react, next.js) · fuentes: MIM, Pontorno-vault, Factu; + evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault; + evidencia directa: API integrations (webhook) · fuentes: MIM, Factu, Web-Sling-Optimizer
+- Gaps: n8n (tool), aws (tool), requisitos obligatorios no leídos (unknown)
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ## SIDE
