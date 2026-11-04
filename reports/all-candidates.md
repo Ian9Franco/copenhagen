@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-11-04T06:40:14.297Z
+Generado: 2026-11-04T16:24:16.865Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -56,6 +56,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 45 | 40 | 72 | unknown | 47 | [Analista Desenvolvedor(a) – Python / DevOps](https://himalayas.app/companies/grupo-data/jobs/analista-desenvolvedor-a-python-devops?utm_source=api) | Grupo Data | Himalayas | new |
 | 46 | 24 | 72 | low | 42 | [Senior .NET Engineer](https://www.getonbrd.com/jobs/net-engineer-autoraptor-remote) | AutoRaptor | Get on Board | new |
 | 46 | 0 | 72 | low | 41 | [Tech Lead Outsystems con Inglés y Español (LATAM)](https://www.getonbrd.com/jobs/tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote) | I2B Technologies | Get on Board | new |
+| 44 | 40 | 72 | unknown | 46 | [DevOps Customer Support Engineer (Remote Europe)](https://himalayas.app/companies/spacelift/jobs/devops-customer-support-engineer-remote-europe?utm_source=api) | Spacelift | Himalayas | new |
 | 45 | 24 | 82 | unknown | 46 | [Senior Data Engineer (Freelance - all genders)](https://himalayas.app/companies/alfadocs-com/jobs/senior-data-engineer-freelance-all-genders?utm_source=api) | AlfaDocs.com | Himalayas | new |
 | 45 | 17 | 72 | unknown | 42 | [DevOps Engineer Cloud Database con inglés](https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles?utm_source=api) | Sopra Steria | Himalayas | new |
 | 42 | 24 | 72 | unknown | 45 | [Senior DevOps Engineer - Repository Migration (Freelance, Remote)](https://himalayas.app/companies/sidekick-network-gmbh-co-kg/jobs/senior-devops-engineer-repository-migration-freelance-remote?utm_source=api) | Sidekick Network GmbH & Co. KG | Himalayas | new |
