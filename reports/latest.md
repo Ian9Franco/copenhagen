@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-11-04T16:24:16.865Z
+Generado: 2026-11-05T06:59:16.329Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (11), Arbeitnow (69), Get on Board (528), RemoteOK (99), Jobicy (38), Himalayas (83)
+Fuentes: Remotive (11), Arbeitnow (64), Get on Board (528), RemoteOK (99), Jobicy (44), Himalayas (83)
 
 ## MAIN — Top picks
 
@@ -33,7 +33,7 @@ Valencia y España, para una mudanza posterior con la familia. La ventana de mud
 - [Analista Desenvolvedor(a) – Python / DevOps](https://himalayas.app/companies/grupo-data/jobs/analista-desenvolvedor-a-python-devops?utm_source=api) — Grupo Data · Brazil, Portugal, Spain · not_yet_ordered
 - [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) — BIP · Spain · not_yet_ordered
 - [BIGBLUE_Data Engineer](https://himalayas.app/companies/q-tech/jobs/bigblue_data-engineer?utm_source=api) — Q-Tech · Spain · not_yet_ordered
-- [Data Engineer](https://himalayas.app/companies/scalian/jobs/data-engineer?utm_source=api) — Scalian · Spain · not_yet_ordered
+- [Data & Analytics Engineer (freelancer)](https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer?utm_source=api) — The Agile Monkeys · Spain · not_yet_ordered
 
 ## Cobertura
 

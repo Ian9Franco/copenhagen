@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-11-04T16:24:16.865Z
+Generado: 2026-11-05T06:59:16.329Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -46,10 +46,10 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 48 | 2 | 72 | low | 43 | [Arquitecto de Datos (Data & AI)](https://www.getonbrd.com/jobs/arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8) | Grupo Mariposa | Get on Board | new |
 | 48 | 24 | 72 | unknown | 44 | [DevOps Engineer](https://himalayas.app/companies/logicalis-com/jobs/devops-engineer?utm_source=api) | Logicalis Spain | Himalayas | new |
 | 47 | 24 | 82 | unknown | 48 | [DevOps Engineer](https://himalayas.app/companies/webio/jobs/devops-engineer?utm_source=api) | Webio | Himalayas | new |
-| 47 | 24 | 90 | unknown | 48 | [Data Product Engineer, Data & Analytics](https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics?utm_source=api) | Trimble | Himalayas | new |
 | 47 | 24 | 65 | unknown | 48 | [Senior Data Engineer (AI-Native) — Data Layer](https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer?utm_source=api) | Proton | Himalayas | new |
 | 47 | 40 | 72 | unknown | 48 | [Data Engineer (Sweden)](https://himalayas.app/companies/aida-recruitment/jobs/data-engineer-sweden?utm_source=api) | AIDA Recruitment | Himalayas | new |
 | 48 | 17 | 82 | unknown | 43 | [Data Engineer](https://himalayas.app/companies/scalian/jobs/data-engineer?utm_source=api) | Scalian | Himalayas | new |
+| 48 | 33 | 65 | unknown | 44 | [Data & Analytics Engineer (freelancer)](https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer?utm_source=api) | The Agile Monkeys | Himalayas | new |
 | 47 | 0 | 72 | low | 42 | [Sr. Java Platform Engineer](https://www.getonbrd.com/jobs/sr-java-platform-engineer-improving-remote) | Improving | Get on Board | new |
 | 47 | 0 | 72 | low | 42 | [Senior Database Engineer Maria DB & PostgreSQL](https://www.getonbrd.com/jobs/senior-database-engineer-maria-db-postgresql-improving-remote) | Improving | Get on Board | new |
 | 47 | 17 | 72 | unknown | 42 | [DevOps Engineer](https://himalayas.app/companies/scalian/jobs/devops-engineer?utm_source=api) | Scalian | Himalayas | new |
