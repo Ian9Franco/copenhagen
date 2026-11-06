@@ -1,6 +1,6 @@
 # Port — Application prep
 
-Generado: 2026-11-06T06:58:50.824Z
+Generado: 2026-11-06T15:59:39.750Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
@@ -44,23 +44,23 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Gaps: requisitos obligatorios no leídos (unknown)
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
-### SAP BTP Lead — Pontoonglobal
+### ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM) — Toptal
 
-- Oferta: https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api
-- Fuente: Himalayas · SOURCE TRUST: official_public_api
-- COMPANY TRUST: medium · LISTING RISK: **medium**
-- Señales trust: listing_url_off_board, apply_url_external, salary_outlier
-- Modalidad: remote · Worldwide
-- Tipo detectado: contract
-- Seniority del aviso: Senior
-- Current Fit: **22** · Transferability: **97** · Gap Cost: **unknown**
-- Career Potential: **90** · Evidence: **low**
-- salario incomparable (moneda INR) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra
+- Oferta: https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689
+- Fuente: RemoteOK · SOURCE TRUST: official_public_api
+- COMPANY TRUST: medium · LISTING RISK: **low**
+- Señales trust: ninguna
+- Modalidad: remote · Anywhere in the World
+- Tipo detectado: unknown
+- Seniority del aviso: no indicado
+- Current Fit: **40** · Transferability: **80** · Gap Cost: **unknown**
+- Career Potential: **82** · Evidence: **low**
+- salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra
 - Viaje: sin viaje diario desde zona oeste, Buenos Aires
-- Enfatizar en CV/intro: node.js, nodejs, full-stack
-- Verificar antes de afirmar: requisitos obligatorios no leídos (unknown), producto SAP (ecosystem)
-- Por qué apareció: + evidencia directa: TypeScript (node.js, nodejs) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; + evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault; + transferible: SAP technical transition (sap, sap btp) · fuentes: transferability-analysis · profundidad sin confirmar
-- Gaps: requisitos obligatorios no leídos (unknown), producto SAP (ecosystem)
+- Enfatizar en CV/intro: docker, llm, python
+- Verificar antes de afirmar: requisitos obligatorios no leídos (unknown)
+- Por qué apareció: + evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar; + evidencia directa: Applied AI integration (llm) · fuentes: MIM, Web-Sling-Optimizer · profundidad sin confirmar; + evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar
+- Gaps: requisitos obligatorios no leídos (unknown)
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ## SIDE

@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-11-06T06:58:50.824Z
+Generado: 2026-11-06T15:59:39.750Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (10), Arbeitnow (62), Get on Board (527), RemoteOK (99), Jobicy (45), Himalayas (83)
+Fuentes: Remotive (12), Arbeitnow (66), Get on Board (525), RemoteOK (99), Jobicy (45), Himalayas (83)
 
 ## MAIN — Top picks
 
@@ -14,7 +14,7 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 | ---: | ---: | ---: | --- | --- | --- | --- |
 | 61 | 44 | 90 | [Full-Stack Engineer (React / .NET / AWS)](https://www.getonbrd.com/jobs/full-stack-engineer-react-net-aws-improving-remote) | Improving | remote · Colombia, Peru, Argentina, Chile | Fit 44% · Potencial 90 · Transfer 66 · evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu; evidencia directa: Full-stack product engineering (full stack, full-stack) · fuentes: MIM, Factu, Pontorno-vault · seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado · fusiona https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote, https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote, https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote |
 | 59 | 40 | 90 | [Product Manager - Realtime](https://jobicy.com/jobs/156943-product-manager-realtime) | Supabase | remote · Anywhere | Fit 40% · Potencial 90 · Transfer 80 · evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault; evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar · gap desconocido: requisitos obligatorios no leídos |
-| 58 | 22 | 90 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | remote · Worldwide | Fit 22% · Potencial 90 · Transfer 97 · evidencia directa: TypeScript (node.js, nodejs) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault · gap ecosistema: producto SAP |
+| 58 | 40 | 82 | [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | remote · Anywhere in the World | Fit 40% · Potencial 82 · Transfer 80 · evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar; evidencia directa: Applied AI integration (llm) · fuentes: MIM, Web-Sling-Optimizer · profundidad sin confirmar · gap desconocido: requisitos obligatorios no leídos |
 
 ## SIDE — Top picks
 
@@ -37,7 +37,7 @@ Valencia y España, para una mudanza posterior con la familia. La ventana de mud
 
 ## Cobertura
 
-- Universo curado guardado: **60** oportunidades.
+- Universo curado guardado: **62** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
