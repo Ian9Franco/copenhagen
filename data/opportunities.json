@@ -2,16 +2,16 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-11-06T15:59:39.750Z",
+  "generated_at": "2026-11-06T21:36:08.135Z",
   "career_model_version": 2,
   "application_mode": "manual",
   "source_failures": [],
   "source_stats": {
     "Remotive": 12,
-    "Arbeitnow": 66,
-    "Get on Board": 525,
+    "Arbeitnow": 56,
+    "Get on Board": 524,
     "RemoteOK": 99,
-    "Jobicy": 45,
+    "Jobicy": 52,
     "Himalayas": 83
   },
   "top_picks": {
@@ -208,11 +208,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z",
+      "last_seen": "2026-11-06T21:36:08.135Z",
       "merged_urls": [
         "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
         "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
@@ -365,11 +365,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-03T06:58:20.030Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "jobicy-156943",
@@ -531,7 +531,7 @@
         "Graphics Processing Unit",
         "LLM"
       ],
-      "description": "Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities â¢ Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end. â¢ Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable. â¢ Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort. â¢ Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs. â¢ Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty. â¢ Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable. Skills/Experience â¢ 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield â¢ Did this work in the last 3 years and can name the systems, tools, data and rules used â¢ Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls â¢ Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM â¢ Can explain how ML results go wrong without errors (numerical drift, metric bugs) and how to catch them â¢ Technical fluency in Python and the command line, and with files, CSV/JSON, APIs or databases â¢ Availability to start by early November 2026 and complete tasks of about 60 to 75 minutes each Nice-to-have â¢ AI lab or LLM infrastructure experience â¢ Contributions to PyTorch, vLLM or SGLang â¢ GPU profiling experience â¢ Docker and Git proficiency â¢ Experience writing automated tests Process â¢ Task vetting instead of an interview: complete a vetting task so the client can assess your task design â¢ Paid per task; each task takes about 60 to 75 minutes â¢ Work is delivered task by task, with reviewer feedback on submissions â¢ Expected start in early November 2026 Please mention the word **ASTONISHED** and tag RMTMyLjE5Ni4zMC4yMTg= when applying to show you read the job post completely (#RMTMyLjE5Ni4zMC4yMTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities â¢ Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end. â¢ Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable. â¢ Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort. â¢ Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs. â¢ Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty. â¢ Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable. Skills/Experience â¢ 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield â¢ Did this work in the last 3 years and can name the systems, tools, data and rules used â¢ Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls â¢ Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM â¢ Can explain how ML results go wrong without errors (numerical drift, metric bugs) and how to catch them â¢ Technical fluency in Python and the command line, and with files, CSV/JSON, APIs or databases â¢ Availability to start by early November 2026 and complete tasks of about 60 to 75 minutes each Nice-to-have â¢ AI lab or LLM infrastructure experience â¢ Contributions to PyTorch, vLLM or SGLang â¢ GPU profiling experience â¢ Docker and Git proficiency â¢ Experience writing automated tests Process â¢ Task vetting instead of an interview: complete a vetting task so the client can assess your task design â¢ Paid per task; each task takes about 60 to 75 minutes â¢ Work is delivered task by task, with reviewer feedback on submissions â¢ Expected start in early November 2026 Please mention the word **ASTONISHED** and tag RMTM0LjEzOC40NS4xMTY= when applying to show you read the job post completely (#RMTM0LjEzOC40NS4xMTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "description_truncated": false,
       "salary_value": {
         "status": "unparsed",
@@ -622,11 +622,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T15:59:39.750Z",
-      "last_seen": "2026-11-06T15:59:39.750Z",
+      "last_seen": "2026-11-06T21:36:08.135Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://remoteok.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
@@ -931,11 +931,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-31T14:35:51.637Z",
-      "last_seen": "2026-11-06T15:59:39.750Z",
+      "last_seen": "2026-11-06T21:36:08.135Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
@@ -1083,11 +1083,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "jobicy-149527",
@@ -1229,6 +1229,143 @@
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
       "last_seen": "2026-10-30T20:52:56.820Z"
+    },
+    {
+      "id": "jobicy-159380",
+      "source": "Jobicy",
+      "source_trust": "official_public_api",
+      "external_id": "159380",
+      "url": "https://jobicy.com/jobs/159380-orioledb-deployment-engineer",
+      "apply_url": "https://jobicy.com/jobs/159380-orioledb-deployment-engineer",
+      "title": "OrioleDB Deployment Engineer",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "full_time",
+      "published_at": "2026-11-06T16:01:02.000Z",
+      "salary": "",
+      "seniority": "Any",
+      "tags": [
+        "DevOps & Infrastructure",
+        "Any"
+      ],
+      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a OrioleDB Deployment Engineer to join our OrioleDB Team and help elevate our OrioleDB offering. You’ll work closely with the OrioleDB team, playing an instrumental role in technical decision-making and refining internal methodologies. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions. What You’ll Be Responsible For Package software into our supabase/postgres repo using Nix (with flakes), and help us transition our packaging from traditional to Nix packaging more over time. Manage OrioleDB release lifecycles, ensuring timely major, minor, and extension upgrades. Expand platform release systems to allow developers to increasingly self-service. Optimize CI/CD and tooling, specifically expanding GitHub Actions, team tooling, and testing/release approaches. Resolve production issues by proactively identifying and fixing problems in customer deployments. Maintain best practices and tests to ensure enhanced stability and decreased deployment risks. co-owning the integration of OrioleDB into the supabase product You Might Be a Good Fit If You Have 3+ years of experience with PostgreSQL and its ecosystem, including extensions and performance optimization. Are an Infrastructure Expert with proven experience in management, tooling, and optimization. Are proficient in the Nix package management system (including flakes) alongside Ansible, Packer, Docker, QEMU/KVM, AWS, and Kubernetes. Have experience building for multiple architectures , specifically Linux and Darwin/macOS aarch64 targets. Are comfortable with polyglot environments , including builds for C/C++, Go, JavaScript, and Rust-based projects. Communicate clearly across both technical and non-technical audiences, especially when interacting with customers. Have experience in async or globally distributed teams and value independent, proactive problem-solving. Are willing to mentor , taking on responsibility for teaching the engineering team to use and contribute to our Nix-based work. Have experience with integration of emerging features into widely used managed hosted product platforms What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents , wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. 200+ team members 40+ countries 15+ languages spoken $496M raised 430,000+ community members 30,000+ memes posted (and counting) We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities. What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. ~400 team members 60+ countries 20+ languages spoken Over $1B raised (including our $500M Series F) 540,000+ community members We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Jobicy",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 14,
+      "keyword_main_score": 21,
+      "keyword_side_score": 19,
+      "main_eligible_now": true,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "backend",
+        "integration",
+        "devops",
+        "supabase"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 55,
+      "side_score": 49,
+      "potential": {
+        "current_fit": 40,
+        "transferability": 75,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 52,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": true,
+        "place_bridge": true,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: TypeScript (javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
+          "+ evidencia directa: PostgreSQL (postgresql, postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
+          "+ evidencia directa: Supabase (supabase) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: GitHub Actions (github actions, ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (tooling) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
+          "- gap herramienta: aws",
+          "- gap herramienta: kubernetes",
+          "- gap desconocido: requisitos obligatorios no leídos"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "kubernetes",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 55,
+        "side_rank": 49,
+        "main_eligible": true,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-11-06T21:36:08.135Z",
+        "history": []
+      },
+      "first_seen": "2026-11-06T21:36:08.135Z",
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-qa-automation-engineer-azure-improving-remote",
@@ -1428,11 +1565,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "remoteok-1137572",
@@ -1462,7 +1599,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RMTMyLjE5Ni4zMC4yMTg= when applying to show you read the job post completely (#RMTMyLjE5Ni4zMC4yMTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RMTM0LjEzOC40NS4xMTY= when applying to show you read the job post completely (#RMTM0LjEzOC40NS4xMTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "description_truncated": false,
       "salary_value": {
         "status": "unparsed",
@@ -1562,11 +1699,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-27T14:38:54.174Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "jobicy-158826",
@@ -1691,11 +1828,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-04T06:40:14.297Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-desarrollador-mobile-mediastream-bogota-santiago-bf34",
@@ -1879,11 +2016,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "remoteok-1137690",
@@ -1912,7 +2049,7 @@
         "SQL",
         "Supply Chain Operations"
       ],
-      "description": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities â¢ Design expert-level Terminal-Bench tasks by turning a real supply chain task from your work into a challenge an AI agent solves end to end. â¢ Define the files, data exports and systems each task runs on, such as ERP, MES and WMS extracts, so the scenario reflects realistic planning conditions. â¢ Write a working solution for each task, for example a 5-day production plan, and confirm it can be solved in 60 to 75 minutes. â¢ Build the automated check that proves the result is correct, using tests or scripts that accept valid answers and catch planning errors objectively. â¢ Document the written rules, constraints and SOPs that decide each case, along with realistic edge cases, data inconsistencies and common planner errors from your process. â¢ Iterate on tasks based on reviewer feedback, keeping instructions unambiguous, data consistent and the solution and verification reproducible in a command-line environment. Skills/Experience â¢ 3+ years of hands-on supply chain or production planning work (not only studying, selling or managing it), or a PhD with active research in the subfield â¢ Did the work within the last 3 years and can name the systems, tools, data and rules used â¢ Personally executed a process where each case is decided by written rules such as SOPs, planning rules or constraints â¢ Worked inside systems of record (ERP, WMS) and with their exports or reports â¢ Can describe edge cases, data inconsistencies and common planner errors, and how a mistake would be caught â¢ Technical fluency in Python or another language and the command line, plus files, CSV/JSON, APIs or databases â¢ Available to start around November 4, 2026 Nice-to-have â¢ Automated or audited the process with scripts, SQL, RPA or rules engines â¢ 5+ years in the same process family â¢ Docker, Git and experience writing tests â¢ Hands-on experience with SAP or other ERPs and TMS/WMS platforms â¢ Advanced Excel skills Process â¢ Task-based engagement paid per task, with each task taking about 60 to 75 minutes â¢ Vetting task instead of a live interview â¢ Tasks are reviewed by the client before approval Please mention the word **EXELLENT** and tag RMTMyLjE5Ni4zMC4yMTg= when applying to show you read the job post completely (#RMTMyLjE5Ni4zMC4yMTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities â¢ Design expert-level Terminal-Bench tasks by turning a real supply chain task from your work into a challenge an AI agent solves end to end. â¢ Define the files, data exports and systems each task runs on, such as ERP, MES and WMS extracts, so the scenario reflects realistic planning conditions. â¢ Write a working solution for each task, for example a 5-day production plan, and confirm it can be solved in 60 to 75 minutes. â¢ Build the automated check that proves the result is correct, using tests or scripts that accept valid answers and catch planning errors objectively. â¢ Document the written rules, constraints and SOPs that decide each case, along with realistic edge cases, data inconsistencies and common planner errors from your process. â¢ Iterate on tasks based on reviewer feedback, keeping instructions unambiguous, data consistent and the solution and verification reproducible in a command-line environment. Skills/Experience â¢ 3+ years of hands-on supply chain or production planning work (not only studying, selling or managing it), or a PhD with active research in the subfield â¢ Did the work within the last 3 years and can name the systems, tools, data and rules used â¢ Personally executed a process where each case is decided by written rules such as SOPs, planning rules or constraints â¢ Worked inside systems of record (ERP, WMS) and with their exports or reports â¢ Can describe edge cases, data inconsistencies and common planner errors, and how a mistake would be caught â¢ Technical fluency in Python or another language and the command line, plus files, CSV/JSON, APIs or databases â¢ Available to start around November 4, 2026 Nice-to-have â¢ Automated or audited the process with scripts, SQL, RPA or rules engines â¢ 5+ years in the same process family â¢ Docker, Git and experience writing tests â¢ Hands-on experience with SAP or other ERPs and TMS/WMS platforms â¢ Advanced Excel skills Process â¢ Task-based engagement paid per task, with each task taking about 60 to 75 minutes â¢ Vetting task instead of a live interview â¢ Tasks are reviewed by the client before approval Please mention the word **EXELLENT** and tag RMTM0LjEzOC40NS4xMTY= when applying to show you read the job post completely (#RMTM0LjEzOC40NS4xMTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "description_truncated": false,
       "salary_value": {
         "status": "unparsed",
@@ -2003,11 +2140,152 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T15:59:39.750Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
+    },
+    {
+      "id": "jobicy-159370",
+      "source": "Jobicy",
+      "source_trust": "official_public_api",
+      "external_id": "159370",
+      "url": "https://jobicy.com/jobs/159370-finops-engineer",
+      "apply_url": "https://jobicy.com/jobs/159370-finops-engineer",
+      "title": "FinOps Engineer",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "full_time",
+      "published_at": "2026-11-06T15:59:57.000Z",
+      "salary": "",
+      "seniority": "Any",
+      "tags": [
+        "DevOps & Infrastructure",
+        "Any"
+      ],
+      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're looking for a FinOps Engineer to help drive cost optimization and cloud financial governance across our AWS infrastructure and GCP footprint. You'll work cross-functionally with Engineering, Finance, and Product to find and ship savings, build the tooling necessary to maximize efficiency of every dollar spent in the cloud, and cultivate a culture of cost awareness across engineering teams. This is a hands-on engineering role, not an analyst seat. You'll do the schlep work other teams don't have time for, digging into a bucket's access pattern, writing the Terraform or Lambda that ships the fix, working on a product feature chasing a number until it reconciles, and influencing product decisions when cost to reliability tradeoffs hit. Strong communication matters as much as technical depth, you'll regularly explain a savings case to an engineering team, a finance stakeholder, and a leadership audience in the same week. What You'll Be Responsible For In this role, you'll: Find and ship savings across AWS and GCP: Analyze billing, usage, and cost trends to identify opportunities, rightsizing, storage lifecycle policies, data transfer, and spot/auto-scaling. Take ideas from identification through to a realized dollar figure, not just a recommendation. Build and maintain cost attribution: Tagging policies, cost allocation, and chargeback/showback so engineering teams can see and own their own spend. This is foundational work other savings work depends on. Automate cost governance: Build automated cost reporting, anomaly detection, and alerting. Write the scripts and infrastructure-as-code (Python, Terraform, Lambda) that enforce cost policy rather than relying on manual review. Partner with engineering on architecture decisions: Bring cost into the room early, cost-efficiencies are cheaper to get right at design than to retrofit. Work with Finance on forecasting and reporting: Support budget tracking and financial KPIs; build dashboards engineering and finance can both read. You Might Be a Good Fit If You Have strong AWS expertise and working GCP knowledge, including pricing models, billing structures, and cost optimization mechanics. Have automation and scripting skills: Python, Terraform/ pulumi, Lambda, or Bash Are comfortable with cost/billing tooling: AWS Cost Explorer, Cost & Usage Reports, GCP Billing Reports, and BI/dashboarding (we use Hex). Have experience with, or are comfortable picking up, Linear and Notion as the system of record for tracking and documenting FinOps work. Experience with a dedicated cloud cost management platform (e.g. CloudZero, Vantage, or similar) is a plus, not required. Can analyze cost data and present it clearly to both technical and non-technical audiences. Have prior experience in a FinOps, cloud cost management, or cloud governance role. Are energized by doing the unglamorous, high-leverage work (the schlep) that unblocks other teams, and by working cross-functionally without positional authority. What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. ~400 team members 60+ countries 20+ languages spoken Over $1B raised (including our $500M Series F) 540,000+ community members We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Jobicy",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 14,
+      "keyword_main_score": 21,
+      "keyword_side_score": 19,
+      "main_eligible_now": true,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "backend",
+        "automation",
+        "devops",
+        "supabase"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 53,
+      "side_score": 48,
+      "potential": {
+        "current_fit": 40,
+        "transferability": 64,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": true,
+        "place_bridge": true,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
+          "+ evidencia directa: Supabase (supabase) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (automation, tooling) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
+          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
+          "- gap herramienta: aws",
+          "- gap herramienta: gcp",
+          "- gap herramienta: terraform",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: devops"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "gcp",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 53,
+        "side_rank": 48,
+        "main_eligible": true,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-11-06T21:36:08.135Z",
+        "history": []
+      },
+      "first_seen": "2026-11-06T21:36:08.135Z",
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto",
@@ -2151,11 +2429,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100",
@@ -2305,11 +2583,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-improving-remote",
@@ -2490,11 +2768,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-java-angular-improving-remote",
@@ -2706,11 +2984,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-ai-backend-engineer-improving-remote",
@@ -2915,11 +3193,286 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
+    },
+    {
+      "id": "jobicy-159382",
+      "source": "Jobicy",
+      "source_trust": "official_public_api",
+      "external_id": "159382",
+      "url": "https://jobicy.com/jobs/159382-head-of-ai-native-operations",
+      "apply_url": "https://jobicy.com/jobs/159382-head-of-ai-native-operations",
+      "title": "Head of AI Native Operations",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "full_time",
+      "published_at": "2026-11-06T16:02:00.000Z",
+      "salary": "",
+      "seniority": "Senior",
+      "tags": [
+        "Product & Operations",
+        "Senior"
+      ],
+      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are looking for a Head of AI Native Operations to build the autonomous systems that run Supabase. Supabase is building an AI-native internal operating system, where agents carry the operational load end to end. We are standing up a new central team to build that platform and run it in production. This is the role that leads it, and it is hands-on. You design the architecture, build the first versions of the critical pieces, and are accountable for whether every agent we run is correct, safe, and improving over time. We build rather than buy, and there are no settled best practices for most of this yet, so you will be setting them. You will lead a team of senior individual contributors extending the platform and driving adoption across teams. What You’ll Be Responsible For In this role, you’ll: Own the agent platform architecture: The harness and orchestration layer and connectors into company systems, shared context and memory, and the path from prototype to production. Catch regressions before they ship: Model, prompt, and tool changes can’t ship until they pass the evals. When a new model comes out, you know within hours whether to adopt it. Make every agent observable: Every run and every decision is traced. For any agent at any time, you can answer what it did, why, what it cost, and how its quality is trending. Own safety and trust: Design the controls that let agents act without a human in the loop: least-privilege credentials, hard policy limits, escalation thresholds, audit logs, sandboxing, and prompt-injection defenses. Replace workflows, don’t assist them: Pick the workflows agents can fully own today and take them to production. Turn wins into a platform: Package what works into reusable components, templates, and eval harnesses so other teams can ship their own production agents without starting from scratch. Build and direct the team: Hire and grow senior ICs, review their designs and pull requests, and hold the quality bar. Measure what matters: Track workflows automated, eval pass rates, cost per run, and work absorbed against the hiring plan. How You’ll Think A Point of View on Where Automation Wins You have a thesis about how AI and automation change the way a company operates, and it comes from building, not reading. You can look at a business and say which workflows agents can own today, which they will own in 12 months as models improve, and which still need people, and why. You defend that view with evidence from systems you have shipped, and you update it when the evals tell you to. Eval-Driven You don’t trust an agent because the demo looked good. You trust it because it passes a test set of real cases, and you know which cases it fails. When anything changes, your first question is “what do the evals say?” Inversion Thinking Left alone, an autonomous system tends to fail quietly, or people route around it. So the first question about any agent isn’t “does it work on the happy path?” but “how will this break, and how will we know?” The design follows from that answer: what the agent is never allowed to do, what it escalates, and which alert fires when quality drifts. Recursive Thinking Every system you build should produce the evidence that grades it. An agent isn’t done when it works. It’s done when it tells you, without you in the loop, that it has stopped working. Must Have Hands-on agent building: Have personally designed and built autonomous agent or LLM systems that ran in production and that others depended on. Prototypes, demos, and configuring a vendor tool don’t count. You don’t need to be a career software engineer, but you must have built these systems yourself. Architecture depth: Can explain how the pieces fit together (orchestration, tool and data access, context and memory, tracing, evals, guardrails, deployment), with opinions on current frameworks. Security judgment: Have shipped agents that take real actions with real permissions, and designed the controls that made that safe. A tested point of view: Can argue, with examples from your own builds, where autonomous systems create real business leverage and where they don’t yet. Technical leadership: Have led senior builders and set the quality bar through design and code review. Strong Signal Have replaced a human-run business workflow (finance, operations, support, release management) end to end with an autonomous system. Are native to Git, Markdown, and pull requests, and comfortable reading and writing Python or TypeScript. Have taken an internal platform from zero to adoption by teams you did not control. A software engineering background is a plus, but not required. What Success Looks Like Six months: 20+ autonomous agents in production on the shared platform, each with an eval suite, tracing, and a named owner. Regressions get caught, not discovered: Quality problems surface in an alert or dashboard before a user reports them. Workflows replaced, not assisted: Multiple high-volume workflows are fully owned by agents, with humans handling only escalations. Trusted by default: No agent causes material financial, security, or customer harm, and every agent’s permissions and actions can be audited. Teams ship their own: At least three teams outside the core team run production agents built on the platform. Autonomous team: Your two reports work independently, and you spend your time on architecture and review rather than execution. What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. ~400 team members 60+ countries 20+ languages spoken Over $1B raised (including our $500M Series F) 540,000+ community members We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Jobicy",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 13,
+      "keyword_main_score": 20,
+      "keyword_side_score": 18,
+      "main_eligible_now": true,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "backend",
+        "typescript",
+        "automation",
+        "supabase"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 52,
+      "side_score": 46,
+      "potential": {
+        "current_fit": 14,
+        "transferability": 80,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 82,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "applied_ai"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": true,
+        "place_bridge": true,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: TypeScript (typescript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
+          "+ evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
+          "+ evidencia directa: Supabase (supabase) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Applied AI integration (llm) · fuentes: MIM, Web-Sling-Optimizer · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (automation, workflow) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
+          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide head; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: applied_ai",
+          "sin viaje diario desde zona oeste, Buenos Aires"
+        ],
+        "gaps": [
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 52,
+        "side_rank": 46,
+        "main_eligible": true,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-11-06T21:36:08.135Z",
+        "history": []
+      },
+      "first_seen": "2026-11-06T21:36:08.135Z",
+      "last_seen": "2026-11-06T21:36:08.135Z"
+    },
+    {
+      "id": "jobicy-159366",
+      "source": "Jobicy",
+      "source_trust": "official_public_api",
+      "external_id": "159366",
+      "url": "https://jobicy.com/jobs/159366-platform-engineer-edge-networking",
+      "apply_url": "https://jobicy.com/jobs/159366-platform-engineer-edge-networking",
+      "title": "Platform Engineer, Edge & Networking",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "full_time",
+      "published_at": "2026-11-06T15:59:50.000Z",
+      "salary": "",
+      "seniority": "Any",
+      "tags": [
+        "DevOps & Infrastructure",
+        "Any"
+      ],
+      "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We are seeking a platform engineer to join our Edge & Networking squad. This team owns everything that happens at the network perimeter: API gateway, routing, load balancing, DNS, and secure global traffic distribution. You'll design, build, and operate systems that are both robust and highly automated — enabling us to to scale reliably while maintaining low latency and high availability across our global infrastructure. You will work closely with other infrastructure and product teams to ensure seamless integration, observability, and performance of our edge services. What You’ll Be Responsible for: Help build and maintain the Supabase Cloud offering; Design and implement Supabase’s global edge router platform; Build programmable, API-driven routing logic to dynamically steer customer traffic; Work with DNS, WAF, IP networking, TLS termination, CDN integrations, and global load balancing; Implement advanced observability: relevant metric and log capturing, latency measurements, traffic shaping, routing health, and failure mitigation. Optimize routing performance to minimize latency and improve reliability across cloud regions. Collaborate cross-functionally with other teams to integrate networking solutions into the entire Supabase stack; Improve our system architecture to reduce costs while balancing security, reliability, and performance; Design CI/CD systems to speed up deployments with proper change and release management processes; Participate in on-call rotations, incident response, and post-incident reviews for edge-related issues; Resolve escalated support issues, while also identifying and resolving systemic issues across the platform. You might be a fit if you have: 5+ years experience in SRE/DevOps/Cloud Infrastructure; 4+ years experience building and operating high-scale networking or edge infrastructure; Strong experience with HTTP, TCP/IP, TLS certificate management, CDN internals, load balancing, and global routing; Proficiency with traffic proxies / routers (e.g., Envoy, NGINX, HAProxy, Traefik, or building your own); Experience designing systems for high availability, failover, and real-time observability; Strong software engineering skills (Go); Strong debugging and troubleshooting skills across distributed systems; Knowledge of IPv6, BGP, Anycast, or advanced routing protocols; Experience in managing large deployments on AWS, GCP, Azure, or similar; Comfortable with cloud networking primitives (AWS, GCP, Azure, or similar); Experience with Infrastructure as Code tools (Pulumi preferred, Terraform/CDK etc also acceptable); Experience with being part of on-call rotations for large production systems. What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. ~400 team members 60+ countries 20+ languages spoken Over $1B raised (including our $500M Series F) 540,000+ community members We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Jobicy",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 22,
+      "keyword_main_score": 29,
+      "keyword_side_score": 27,
+      "main_eligible_now": true,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "backend",
+        "integration",
+        "devops",
+        "platform engineer",
+        "supabase"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 52,
+      "side_score": 47,
+      "potential": {
+        "current_fit": 40,
+        "transferability": 64,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 48,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": true,
+        "place_bridge": true,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
+          "+ evidencia directa: Supabase (supabase) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
+          "+ transferible: DevOps transition base (devops, platform engineer, sre) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
+          "- gap herramienta: aws",
+          "- gap herramienta: azure",
+          "- gap herramienta: gcp",
+          "- gap herramienta: terraform",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: devops"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "azure",
+            "type": "tool"
+          },
+          {
+            "term": "gcp",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 52,
+        "side_rank": 47,
+        "main_eligible": true,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-11-06T21:36:08.135Z",
+        "history": []
+      },
+      "first_seen": "2026-11-06T21:36:08.135Z",
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/initium-software/jobs/devops-engineer",
@@ -3062,11 +3615,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/initium-software/jobs/devops-engineer-react-node",
@@ -3213,11 +3766,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-full-stack-senior-con-ia-agentes-bc-tecnologia-remote-9cff",
@@ -3436,11 +3989,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain",
@@ -3590,11 +4143,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-liferay-bc-tecnologia-santiago",
@@ -3780,11 +4333,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-machine-learning-engineer-improving-remote",
@@ -3956,11 +4509,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-senior-data-engineer-databricks-on-azure-devsu-remote-7b55",
@@ -4195,11 +4748,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -4336,11 +4889,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z",
+      "last_seen": "2026-11-06T21:36:08.135Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -4498,11 +5051,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-02T06:24:23.798Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581",
@@ -4658,11 +5211,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-28T05:55:09.620Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-senior-php-developer-laravel-aws-improving-remote",
@@ -4855,11 +5408,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-forward-deployed-engineer-diverse-programmers-remote",
@@ -5104,11 +5657,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
@@ -5321,11 +5874,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/convotis-schweiz-ag/jobs/devops-engineer-4055125460",
@@ -5472,11 +6025,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/alguna/jobs/data-engineer-first-data-hire",
@@ -5614,11 +6167,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/q-tech/jobs/bigblue_data-engineer",
@@ -5765,11 +6318,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z",
+      "last_seen": "2026-11-06T21:36:08.135Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/q-tech/jobs/bigblue_data-engineer",
@@ -5918,11 +6471,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-senior-php-engineer-laravel-aws-improving-remote",
@@ -6177,11 +6730,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8",
@@ -6411,11 +6964,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-engineer",
@@ -6574,11 +7127,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/webio/jobs/devops-engineer",
@@ -6720,11 +7273,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sidekick-network-gmbh-co-kg/jobs/devops-engineer-nexus-artifact-repository-migration-freelance-remote",
@@ -6865,11 +7418,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer",
@@ -6994,11 +7547,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-23T05:02:16.256Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/aida-recruitment/jobs/data-engineer-sweden",
@@ -7142,11 +7695,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -7287,11 +7840,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z",
+      "last_seen": "2026-11-06T21:36:08.135Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -7494,11 +8047,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-senior-database-engineer-maria-db-postgresql-improving-remote",
@@ -7699,11 +8252,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/devops-engineer",
@@ -7852,11 +8405,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/grupo-data/jobs/analista-desenvolvedor-a-python-devops",
@@ -7999,11 +8552,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-03T06:58:20.030Z",
-      "last_seen": "2026-11-06T15:59:39.750Z",
+      "last_seen": "2026-11-06T21:36:08.135Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/grupo-data/jobs/analista-desenvolvedor-a-python-devops",
@@ -8161,11 +8714,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote",
@@ -8344,11 +8897,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/alfadocs-com/jobs/senior-data-engineer-freelance-all-genders",
@@ -8484,11 +9037,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles",
@@ -8624,11 +9177,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sidekick-network-gmbh-co-kg/jobs/senior-devops-engineer-repository-migration-freelance-remote",
@@ -8773,11 +9326,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
@@ -8929,11 +9482,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-02T06:24:23.798Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer",
@@ -9082,11 +9635,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "getonboard-big-data-engineer-databricks-improving-remote",
@@ -9293,11 +9846,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/saphetor/jobs/senior-devops-engineer-1055789064",
@@ -9444,11 +9997,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478",
@@ -9600,11 +10153,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/canonical/jobs/engineering-director-business-data",
@@ -9748,11 +10301,222 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
+    },
+    {
+      "id": "getonboard-devops-engineer-improving-remote",
+      "source": "Get on Board",
+      "source_trust": "official_public_api",
+      "external_id": "devops-engineer-improving-remote",
+      "url": "https://www.getonbrd.com/jobs/devops-engineer-improving-remote",
+      "title": "DevOps Engineer",
+      "company": "Improving",
+      "location": "Argentina, Peru, Colombia, Chile",
+      "place_text": "Argentina, Peru, Colombia, Chile",
+      "venue": {
+        "cities": [],
+        "tenants": [
+          {
+            "id": "argentina",
+            "name": "Argentina"
+          },
+          {
+            "id": "peru",
+            "name": "Peru"
+          },
+          {
+            "id": "colombia",
+            "name": "Colombia"
+          },
+          {
+            "id": "chile",
+            "name": "Chile"
+          }
+        ],
+        "unresolved_ids": []
+      },
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-11-06T17:02:06.000Z",
+      "salary": "",
+      "salary_value": {
+        "status": "unparsed",
+        "source": "getonboard",
+        "gross_or_net": "unknown"
+      },
+      "mandatory_text": "<ul><li>Implementar y administrar servicios AWS: S3, Lambdas, IAM, ECS, EC2, Networking, RDS.</li><li>Optimizar recursos en la nube para un rendimiento eficiente y seguro.</li><li>Implementar aplicaciones usando Docker para portabilidad y consistencia.</li><li>Automatizar despliegues con Terraform (IaC).</li><li>Gestionar permisos y roles en AWS IAM para garantizar la seguridad.</li><li>Aplicar mejores prácticas de seguridad para proteger infraestructura y datos.</li><li>Desarrollar soluciones de monitoreo y análisis en AWS.</li><li>Identificar y resolver problemas en sistemas productivos de forma proactiva.</li><li>Colaborar con equipos multidisciplinarios para alcanzar objetivos de negocio.</li><li>Documentar procesos y crear guías técnicas para transferencia de conocimiento.</li></ul>",
+      "desirable_text": "",
+      "tags": [
+        "sysadmin-devops-qa",
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Jenkins",
+        "Bitbucket",
+        "Docker",
+        "Identity and Access Management",
+        "Networking",
+        "RDS"
+      ],
+      "description": "Dominio de inglés intermedio-avanzado o avanzado (B2/C1) – excluyente. Más de 4 años de experiencia trabajando como DevOps. Experiencia sólida en AWS ( S3, Lambdas, IAM, ECS, EC2, networking, RDS). Administración de clústeres de Kubernetes. Conocimientos en Terraform. Manejo de integración continua con Jenkins. Uso de Stash/Bitbucket para control de versiones. Implementar y administrar servicios AWS: S3, Lambdas, IAM, ECS, EC2, Networking, RDS. Optimizar recursos en la nube para un rendimiento eficiente y seguro. Implementar aplicaciones usando Docker para portabilidad y consistencia. Automatizar despliegues con Terraform (IaC). Gestionar permisos y roles en AWS IAM para garantizar la seguridad. Aplicar mejores prácticas de seguridad para proteger infraestructura y datos. Desarrollar soluciones de monitoreo y análisis en AWS. Identificar y resolver problemas en sistemas productivos de forma proactiva. Colaborar con equipos multidisciplinarios para alcanzar objetivos de negocio. Documentar procesos y crear guías técnicas para transferencia de conocimiento.",
+      "description_truncated": false,
+      "base_score": 8,
+      "keyword_main_score": 15,
+      "keyword_side_score": 11,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "devops"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 0,
+      "main_score": 43,
+      "side_score": 40,
+      "potential": {
+        "current_fit": 0,
+        "transferability": 48,
+        "gap_cost": "medium",
+        "gap_cost_score": 92,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 45,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "read",
+        "mandatory_requirements": [
+          "Implementar y administrar servicios AWS: S3, Lambdas, IAM, ECS, EC2, Networking, RDS.",
+          "Optimizar recursos en la nube para un rendimiento eficiente y seguro.",
+          "Implementar aplicaciones usando Docker para portabilidad y consistencia.",
+          "Automatizar despliegues con Terraform (IaC).",
+          "Gestionar permisos y roles en AWS IAM para garantizar la seguridad.",
+          "Aplicar mejores prácticas de seguridad para proteger infraestructura y datos.",
+          "Desarrollar soluciones de monitoreo y análisis en AWS.",
+          "Identificar y resolver problemas en sistemas productivos de forma proactiva.",
+          "Colaborar con equipos multidisciplinarios para alcanzar objetivos de negocio.",
+          "Documentar procesos y crear guías técnicas para transferencia de conocimiento."
+        ],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": false,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: 1/10 obligatorios",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: aws",
+          "- gap herramienta: kubernetes",
+          "- gap herramienta: terraform",
+          "- gap herramienta: Implementar y administrar servicios AWS: S3, Lambdas, IAM, ECS, EC2, Networking, RDS.",
+          "- gap herramienta: Automatizar despliegues con Terraform (IaC).",
+          "- gap desconocido: Optimizar recursos en la nube para un rendimiento eficiente y seguro.",
+          "- gap desconocido: Aplicar mejores prácticas de seguridad para proteger infraestructura y datos.",
+          "familias: devops",
+          "sin viaje diario desde zona oeste, Buenos Aires"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "kubernetes",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
+            "type": "tool"
+          },
+          {
+            "term": "Implementar y administrar servicios AWS: S3, Lambdas, IAM, ECS, EC2, Networking, RDS.",
+            "type": "tool"
+          },
+          {
+            "term": "Optimizar recursos en la nube para un rendimiento eficiente y seguro.",
+            "type": "unknown"
+          },
+          {
+            "term": "Automatizar despliegues con Terraform (IaC).",
+            "type": "tool"
+          },
+          {
+            "term": "Gestionar permisos y roles en AWS IAM para garantizar la seguridad.",
+            "type": "tool"
+          },
+          {
+            "term": "Aplicar mejores prácticas de seguridad para proteger infraestructura y datos.",
+            "type": "unknown"
+          },
+          {
+            "term": "Desarrollar soluciones de monitoreo y análisis en AWS.",
+            "type": "tool"
+          },
+          {
+            "term": "Identificar y resolver problemas en sistemas productivos de forma proactiva.",
+            "type": "unknown"
+          },
+          {
+            "term": "Colaborar con equipos multidisciplinarios para alcanzar objetivos de negocio.",
+            "type": "unknown"
+          },
+          {
+            "term": "Documentar procesos y crear guías técnicas para transferencia de conocimiento.",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 43,
+        "side_rank": 40,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-11-06T21:36:08.135Z",
+        "history": []
+      },
+      "first_seen": "2026-11-06T21:36:08.135Z",
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100",
@@ -9914,11 +10678,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100",
@@ -10077,11 +10841,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/devop-one/jobs/senior-data-engineer",
@@ -10215,11 +10979,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-01T20:35:56.781Z",
-      "last_seen": "2026-11-06T15:59:39.750Z",
+      "last_seen": "2026-11-06T21:36:08.135Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/devop-one/jobs/senior-data-engineer",
@@ -10395,11 +11159,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-11-06T15:59:39.750Z",
+        "updated_at": "2026-11-06T21:36:08.135Z",
         "history": []
       },
       "first_seen": "2026-11-06T06:58:50.824Z",
-      "last_seen": "2026-11-06T15:59:39.750Z"
+      "last_seen": "2026-11-06T21:36:08.135Z"
     }
   ]
 }

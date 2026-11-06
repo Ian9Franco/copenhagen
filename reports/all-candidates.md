@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-11-06T15:59:39.750Z
+Generado: 2026-11-06T21:36:08.135Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -14,16 +14,20 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 57 | 40 | 90 | low | 50 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remotive | new |
 | 57 | 24 | 90 | low | 49 | [Full-Stack Developer: React & Node.js](https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote) | Improving | Get on Board | new |
 | 57 | 40 | 90 | low | 50 | [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter) | Canonical | Jobicy | reviewing |
+| 55 | 40 | 72 | low | 49 | [OrioleDB Deployment Engineer](https://jobicy.com/jobs/159380-orioledb-deployment-engineer) | Supabase | Jobicy | new |
 | 54 | 17 | 88 | low | 48 | [QA Automation Engineer (Azure)](https://www.getonbrd.com/jobs/qa-automation-engineer-azure-improving-remote) | Improving | Get on Board | new |
 | 54 | 24 | 82 | low | 48 | [Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572) | Wagmo | RemoteOK | new |
 | 54 | 24 | 82 | low | 48 | [Partner Solutions Architect , AI Builder](https://jobicy.com/jobs/158826-partner-solutions-architect-ai-builder) | Supabase | Jobicy | new |
 | 53 | 22 | 72 | low | 47 | [Desarrollador Ctv](https://www.getonbrd.com/jobs/desarrollador-mobile-mediastream-bogota-santiago-bf34) | Mediastream | Get on Board | new |
 | 53 | 40 | 52 | low | 49 | [Operations Expert with Python for AI Supply Chain Task Design](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) | Toptal | RemoteOK | new |
+| 53 | 40 | 72 | low | 48 | [FinOps Engineer](https://jobicy.com/jobs/159370-finops-engineer) | Supabase | Jobicy | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer (Remoto)](https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api) | knowmad mood | Himalayas | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer CI/CD & Infra Specialist - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 52 | 4 | 90 | low | 46 | [Senior Full-Stack Engineer](https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote) | Improving | Get on Board | new |
 | 52 | 0 | 90 | low | 45 | [Desarrollador Full-Stack: Java & Angular](https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote) | Improving | Get on Board | new |
 | 52 | 17 | 82 | low | 46 | [AI Back-end Engineer](https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote) | Improving | Get on Board | new |
+| 52 | 14 | 82 | low | 46 | [Head of AI Native Operations](https://jobicy.com/jobs/159382-head-of-ai-native-operations) | Supabase | Jobicy | new |
+| 52 | 40 | 72 | low | 47 | [Platform Engineer, Edge & Networking](https://jobicy.com/jobs/159366-platform-engineer-edge-networking) | Supabase | Jobicy | new |
 | 52 | 40 | 72 | unknown | 47 | [DevOps Engineer](https://himalayas.app/companies/initium-software/jobs/devops-engineer?utm_source=api) | Initium Software | Himalayas | new |
 | 52 | 24 | 90 | unknown | 46 | [DevOps Engineer (React + Node)](https://himalayas.app/companies/initium-software/jobs/devops-engineer-react-node?utm_source=api) | Initium Software | Himalayas | new |
 | 51 | 0 | 90 | low | 44 | [Full-Stack Senior con IA & Agentes](https://www.getonbrd.com/jobs/full-stack-senior-con-ia-agentes-bc-tecnologia-remote-9cff) | BC Tecnología | Get on Board | new |
@@ -64,6 +68,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 42 | 24 | 72 | unknown | 44 | [Senior DevOps Engineer](https://himalayas.app/companies/saphetor/jobs/senior-devops-engineer-1055789064?utm_source=api) | Saphetor | Himalayas | new |
 | 44 | 13 | 72 | unknown | 40 | [Senior DevOps and Infrastructure Engineer](https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478?utm_source=api) | Smartcat | Himalayas | new |
 | 42 | 12 | 72 | unknown | 44 | [Engineering Director - Business Data](https://himalayas.app/companies/canonical/jobs/engineering-director-business-data?utm_source=api) | Canonical | Himalayas | new |
+| 43 | 0 | 72 | low | 40 | [DevOps Engineer](https://www.getonbrd.com/jobs/devops-engineer-improving-remote) | Improving | Get on Board | new |
 | 43 | 12 | 72 | unknown | 40 | [Senior DevOps SME (Presales Engineer Lead - AWS) - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 42 | 9 | 72 | unknown | 39 | [Senior DevOps Platform Engineering - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 38 | 24 | 65 | unknown | 42 | [(Senior) Data Engineer](https://himalayas.app/companies/devop-one/jobs/senior-data-engineer?utm_source=api) | Devop.One | Himalayas | new |
