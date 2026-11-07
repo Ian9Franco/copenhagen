@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-11-07T06:12:13.382Z
+Generado: 2026-11-07T14:56:37.472Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -72,6 +72,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 42 | 12 | 72 | unknown | 44 | [Engineering Director - Business Data](https://himalayas.app/companies/canonical/jobs/engineering-director-business-data?utm_source=api) | Canonical | Himalayas | new |
 | 43 | 0 | 72 | low | 40 | [DevOps Engineer](https://www.getonbrd.com/jobs/devops-engineer-improving-remote) | Improving | Get on Board | new |
 | 43 | 12 | 72 | unknown | 40 | [Senior DevOps SME (Presales Engineer Lead - AWS) - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
+| 40 | 24 | 65 | unknown | 43 | [Data Engineer (Databricks & Treasury Data Lake), Remote (EU) – International Cli](https://himalayas.app/companies/twtspain/jobs/data-engineer-databricks-treasury-data-lake-remote-eu-international-cli?utm_source=api) | Twtspain | Himalayas | new |
 | 42 | 12 | 65 | low | 40 | [Solution Engineer](https://jobicy.com/jobs/152574-solution-engineer-3) | RelationalAI | Jobicy | new |
 | 42 | 9 | 72 | unknown | 39 | [Senior DevOps Platform Engineering - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 38 | 24 | 65 | unknown | 42 | [(Senior) Data Engineer](https://himalayas.app/companies/devop-one/jobs/senior-data-engineer?utm_source=api) | Devop.One | Himalayas | new |
